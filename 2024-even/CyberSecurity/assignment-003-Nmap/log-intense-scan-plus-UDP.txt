@@ -1,0 +1,2960 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-05 08:13 SE Asia Standard Time
+NSE: Loaded 157 scripts for scanning.
+NSE: Script Pre-scanning.
+Initiating NSE at 08:13
+Completed NSE at 08:13, 0.00s elapsed
+Initiating NSE at 08:13
+Completed NSE at 08:13, 0.00s elapsed
+Initiating NSE at 08:13
+Completed NSE at 08:13, 0.00s elapsed
+Initiating Ping Scan at 08:13
+Scanning 256 hosts [4 ports/host]
+Completed Ping Scan at 08:13, 7.58s elapsed (256 total hosts)
+Initiating Parallel DNS resolution of 67 hosts. at 08:13
+Completed Parallel DNS resolution of 67 hosts. at 08:13, 5.52s elapsed
+Nmap scan report for 192.168.40.0 [host down]
+Nmap scan report for 192.168.40.2 [host down]
+Nmap scan report for 192.168.40.3 [host down]
+Nmap scan report for 192.168.40.4 [host down]
+Nmap scan report for 192.168.40.5 [host down]
+Nmap scan report for 192.168.40.6 [host down]
+Nmap scan report for 192.168.40.7 [host down]
+Nmap scan report for 192.168.40.8 [host down]
+Nmap scan report for 192.168.40.9 [host down]
+Nmap scan report for 192.168.40.10 [host down]
+Nmap scan report for 192.168.40.11 [host down]
+Nmap scan report for 192.168.40.12 [host down]
+Nmap scan report for 192.168.40.13 [host down]
+Nmap scan report for 192.168.40.14 [host down]
+Nmap scan report for 192.168.40.15 [host down]
+Nmap scan report for 192.168.40.16 [host down]
+Nmap scan report for 192.168.40.17 [host down]
+Nmap scan report for 192.168.40.18 [host down]
+Nmap scan report for 192.168.40.19 [host down]
+Nmap scan report for 192.168.40.20 [host down]
+Nmap scan report for 192.168.40.21 [host down]
+Nmap scan report for 192.168.40.22 [host down]
+Nmap scan report for 192.168.40.23 [host down]
+Nmap scan report for 192.168.40.24 [host down]
+Nmap scan report for 192.168.40.25 [host down]
+Nmap scan report for 192.168.40.26 [host down]
+Nmap scan report for 192.168.40.27 [host down]
+Nmap scan report for 192.168.40.28 [host down]
+Nmap scan report for 192.168.40.29 [host down]
+Nmap scan report for 192.168.40.30 [host down]
+Nmap scan report for 192.168.40.31 [host down]
+Nmap scan report for 192.168.40.32 [host down]
+Nmap scan report for 192.168.40.33 [host down]
+Nmap scan report for 192.168.40.34 [host down]
+Nmap scan report for 192.168.40.35 [host down]
+Nmap scan report for 192.168.40.36 [host down]
+Nmap scan report for 192.168.40.37 [host down]
+Nmap scan report for 192.168.40.38 [host down]
+Nmap scan report for 192.168.40.40 [host down]
+Nmap scan report for 192.168.40.41 [host down]
+Nmap scan report for 192.168.40.42 [host down]
+Nmap scan report for 192.168.40.43 [host down]
+Nmap scan report for 192.168.40.44 [host down]
+Nmap scan report for 192.168.40.45 [host down]
+Nmap scan report for 192.168.40.46 [host down]
+Nmap scan report for 192.168.40.47 [host down]
+Nmap scan report for 192.168.40.48 [host down]
+Nmap scan report for 192.168.40.50 [host down]
+Nmap scan report for 192.168.40.51 [host down]
+Nmap scan report for 192.168.40.53 [host down]
+Nmap scan report for 192.168.40.54 [host down]
+Nmap scan report for 192.168.40.55 [host down]
+Nmap scan report for 192.168.40.56 [host down]
+Nmap scan report for 192.168.40.57 [host down]
+Nmap scan report for 192.168.40.58 [host down]
+Nmap scan report for 192.168.40.59 [host down]
+Nmap scan report for 192.168.40.61 [host down]
+Nmap scan report for 192.168.40.62 [host down]
+Nmap scan report for 192.168.40.63 [host down]
+Nmap scan report for 192.168.40.64 [host down]
+Nmap scan report for 192.168.40.65 [host down]
+Nmap scan report for 192.168.40.66 [host down]
+Nmap scan report for 192.168.40.67 [host down]
+Nmap scan report for 192.168.40.68 [host down]
+Nmap scan report for 192.168.40.69 [host down]
+Nmap scan report for 192.168.40.70 [host down]
+Nmap scan report for 192.168.40.71 [host down]
+Nmap scan report for 192.168.40.72 [host down]
+Nmap scan report for 192.168.40.73 [host down]
+Nmap scan report for 192.168.40.74 [host down]
+Nmap scan report for 192.168.40.75 [host down]
+Nmap scan report for 192.168.40.76 [host down]
+Nmap scan report for 192.168.40.77 [host down]
+Nmap scan report for 192.168.40.78 [host down]
+Nmap scan report for 192.168.40.79 [host down]
+Nmap scan report for 192.168.40.80 [host down]
+Nmap scan report for 192.168.40.81 [host down]
+Nmap scan report for 192.168.40.82 [host down]
+Nmap scan report for 192.168.40.83 [host down]
+Nmap scan report for 192.168.40.84 [host down]
+Nmap scan report for 192.168.40.85 [host down]
+Nmap scan report for 192.168.40.86 [host down]
+Nmap scan report for 192.168.40.87 [host down]
+Nmap scan report for 192.168.40.103 [host down]
+Nmap scan report for 192.168.40.114 [host down]
+Nmap scan report for 192.168.40.118 [host down]
+Nmap scan report for 192.168.40.145 [host down]
+Nmap scan report for 192.168.40.146 [host down]
+Nmap scan report for 192.168.40.147 [host down]
+Nmap scan report for 192.168.40.148 [host down]
+Nmap scan report for 192.168.40.149 [host down]
+Nmap scan report for 192.168.40.150 [host down]
+Nmap scan report for 192.168.40.151 [host down]
+Nmap scan report for 192.168.40.152 [host down]
+Nmap scan report for 192.168.40.153 [host down]
+Nmap scan report for 192.168.40.154 [host down]
+Nmap scan report for 192.168.40.155 [host down]
+Nmap scan report for 192.168.40.156 [host down]
+Nmap scan report for 192.168.40.157 [host down]
+Nmap scan report for 192.168.40.158 [host down]
+Nmap scan report for 192.168.40.159 [host down]
+Nmap scan report for 192.168.40.160 [host down]
+Nmap scan report for 192.168.40.161 [host down]
+Nmap scan report for 192.168.40.162 [host down]
+Nmap scan report for 192.168.40.163 [host down]
+Nmap scan report for 192.168.40.164 [host down]
+Nmap scan report for 192.168.40.165 [host down]
+Nmap scan report for 192.168.40.166 [host down]
+Nmap scan report for 192.168.40.167 [host down]
+Nmap scan report for 192.168.40.168 [host down]
+Nmap scan report for 192.168.40.169 [host down]
+Nmap scan report for 192.168.40.170 [host down]
+Nmap scan report for 192.168.40.171 [host down]
+Nmap scan report for 192.168.40.172 [host down]
+Nmap scan report for 192.168.40.174 [host down]
+Nmap scan report for 192.168.40.175 [host down]
+Nmap scan report for 192.168.40.177 [host down]
+Nmap scan report for 192.168.40.178 [host down]
+Nmap scan report for 192.168.40.179 [host down]
+Nmap scan report for 192.168.40.180 [host down]
+Nmap scan report for 192.168.40.181 [host down]
+Nmap scan report for 192.168.40.182 [host down]
+Nmap scan report for 192.168.40.183 [host down]
+Nmap scan report for 192.168.40.184 [host down]
+Nmap scan report for 192.168.40.185 [host down]
+Nmap scan report for 192.168.40.190 [host down]
+Nmap scan report for 192.168.40.191 [host down]
+Nmap scan report for 192.168.40.192 [host down]
+Nmap scan report for 192.168.40.193 [host down]
+Nmap scan report for 192.168.40.194 [host down]
+Nmap scan report for 192.168.40.195 [host down]
+Nmap scan report for 192.168.40.196 [host down]
+Nmap scan report for 192.168.40.197 [host down]
+Nmap scan report for 192.168.40.198 [host down]
+Nmap scan report for 192.168.40.199 [host down]
+Nmap scan report for 192.168.40.200 [host down]
+Nmap scan report for 192.168.40.201 [host down]
+Nmap scan report for 192.168.40.202 [host down]
+Nmap scan report for 192.168.40.203 [host down]
+Nmap scan report for 192.168.40.204 [host down]
+Nmap scan report for 192.168.40.205 [host down]
+Nmap scan report for 192.168.40.206 [host down]
+Nmap scan report for 192.168.40.208 [host down]
+Nmap scan report for 192.168.40.209 [host down]
+Nmap scan report for 192.168.40.210 [host down]
+Nmap scan report for 192.168.40.211 [host down]
+Nmap scan report for 192.168.40.212 [host down]
+Nmap scan report for 192.168.40.213 [host down]
+Nmap scan report for 192.168.40.214 [host down]
+Nmap scan report for 192.168.40.215 [host down]
+Nmap scan report for 192.168.40.216 [host down]
+Nmap scan report for 192.168.40.217 [host down]
+Nmap scan report for 192.168.40.218 [host down]
+Nmap scan report for 192.168.40.219 [host down]
+Nmap scan report for 192.168.40.220 [host down]
+Nmap scan report for 192.168.40.221 [host down]
+Nmap scan report for 192.168.40.222 [host down]
+Nmap scan report for 192.168.40.224 [host down]
+Nmap scan report for 192.168.40.225 [host down]
+Nmap scan report for 192.168.40.226 [host down]
+Nmap scan report for 192.168.40.227 [host down]
+Nmap scan report for 192.168.40.228 [host down]
+Nmap scan report for 192.168.40.229 [host down]
+Nmap scan report for 192.168.40.230 [host down]
+Nmap scan report for 192.168.40.231 [host down]
+Nmap scan report for 192.168.40.232 [host down]
+Nmap scan report for 192.168.40.233 [host down]
+Nmap scan report for 192.168.40.234 [host down]
+Nmap scan report for 192.168.40.235 [host down]
+Nmap scan report for 192.168.40.236 [host down]
+Nmap scan report for 192.168.40.237 [host down]
+Nmap scan report for 192.168.40.238 [host down]
+Nmap scan report for 192.168.40.239 [host down]
+Nmap scan report for 192.168.40.240 [host down]
+Nmap scan report for 192.168.40.241 [host down]
+Nmap scan report for 192.168.40.242 [host down]
+Nmap scan report for 192.168.40.243 [host down]
+Nmap scan report for 192.168.40.244 [host down]
+Nmap scan report for 192.168.40.245 [host down]
+Nmap scan report for 192.168.40.246 [host down]
+Nmap scan report for 192.168.40.247 [host down]
+Nmap scan report for 192.168.40.248 [host down]
+Nmap scan report for 192.168.40.249 [host down]
+Nmap scan report for 192.168.40.250 [host down]
+Nmap scan report for 192.168.40.251 [host down]
+Nmap scan report for 192.168.40.252 [host down]
+Nmap scan report for 192.168.40.253 [host down]
+Nmap scan report for 192.168.40.254 [host down]
+Nmap scan report for 192.168.40.255 [host down]
+Initiating SYN Stealth Scan at 08:13
+Scanning 67 hosts [1000 ports/host]
+Discovered open port 80/tcp on 192.168.40.99
+Discovered open port 80/tcp on 192.168.40.101
+Discovered open port 80/tcp on 192.168.40.102
+Discovered open port 80/tcp on 192.168.40.104
+Discovered open port 80/tcp on 192.168.40.105
+Discovered open port 80/tcp on 192.168.40.141
+Discovered open port 80/tcp on 192.168.40.1
+Discovered open port 80/tcp on 192.168.40.223
+Discovered open port 80/tcp on 192.168.40.173
+Discovered open port 53/tcp on 192.168.40.102
+Discovered open port 53/tcp on 192.168.40.101
+Discovered open port 443/tcp on 192.168.40.99
+Discovered open port 443/tcp on 192.168.40.105
+Discovered open port 443/tcp on 192.168.40.104
+Discovered open port 443/tcp on 192.168.40.223
+Discovered open port 22/tcp on 192.168.40.99
+Discovered open port 22/tcp on 192.168.40.105
+Discovered open port 443/tcp on 192.168.40.141
+Discovered open port 22/tcp on 192.168.40.52
+Discovered open port 443/tcp on 192.168.40.101
+Discovered open port 443/tcp on 192.168.40.102
+Discovered open port 22/tcp on 192.168.40.104
+Discovered open port 22/tcp on 192.168.40.60
+Discovered open port 22/tcp on 192.168.40.141
+Discovered open port 443/tcp on 192.168.40.173
+Discovered open port 21/tcp on 192.168.40.1
+Discovered open port 22/tcp on 192.168.40.173
+Increasing send delay for 192.168.40.39 from 0 to 5 due to max_successful_tryno increase to 5
+Discovered open port 8291/tcp on 192.168.40.1
+SYN Stealth Scan Timing: About 39.06% done; ETC: 08:15 (0:00:48 remaining)
+Discovered open port 2000/tcp on 192.168.40.1
+Increasing send delay for 192.168.40.39 from 5 to 10 due to 13 out of 31 dropped probes since last increase.
+Warning: 192.168.40.39 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.136 from 0 to 5 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.136 from 5 to 10 due to max_successful_tryno increase to 6
+Warning: 192.168.40.136 giving up on port because retransmission cap hit (6).
+SYN Stealth Scan Timing: About 65.52% done; ETC: 08:15 (0:00:42 remaining)
+adjust_timeouts2: packet supposedly had rtt of 9795000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9795000 microseconds.  Ignoring time.
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+adjust_timeouts2: packet supposedly had rtt of 8735000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8735000 microseconds.  Ignoring time.
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+adjust_timeouts2: packet supposedly had rtt of 9681000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9681000 microseconds.  Ignoring time.
+RTTVAR has grown to over 2.3 seconds, decreasing to 2.0
+adjust_timeouts2: packet supposedly had rtt of 8505000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8505000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9267000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9267000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8457000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 8457000 microseconds.  Ignoring time.
+Completed SYN Stealth Scan against 192.168.40.109 in 109.88s (66 hosts left)
+Completed SYN Stealth Scan against 192.168.40.138 in 109.91s (65 hosts left)
+Completed SYN Stealth Scan against 192.168.40.52 in 109.93s (64 hosts left)
+Completed SYN Stealth Scan against 192.168.40.93 in 109.93s (63 hosts left)
+Completed SYN Stealth Scan against 192.168.40.127 in 109.96s (62 hosts left)
+Completed SYN Stealth Scan against 192.168.40.92 in 110.05s (61 hosts left)
+Completed SYN Stealth Scan against 192.168.40.110 in 110.09s (60 hosts left)
+Completed SYN Stealth Scan against 192.168.40.89 in 110.13s (59 hosts left)
+Completed SYN Stealth Scan against 192.168.40.91 in 110.13s (58 hosts left)
+Completed SYN Stealth Scan against 192.168.40.117 in 110.16s (57 hosts left)
+Completed SYN Stealth Scan against 192.168.40.49 in 110.19s (56 hosts left)
+Completed SYN Stealth Scan against 192.168.40.122 in 110.33s (55 hosts left)
+Completed SYN Stealth Scan against 192.168.40.101 in 110.43s (54 hosts left)
+Completed SYN Stealth Scan against 192.168.40.137 in 110.43s (53 hosts left)
+Completed SYN Stealth Scan against 192.168.40.102 in 110.47s (52 hosts left)
+Completed SYN Stealth Scan against 192.168.40.104 in 110.52s (51 hosts left)
+Completed SYN Stealth Scan against 192.168.40.106 in 110.52s (50 hosts left)
+Completed SYN Stealth Scan against 192.168.40.135 in 110.57s (49 hosts left)
+Completed SYN Stealth Scan against 192.168.40.108 in 110.70s (48 hosts left)
+Completed SYN Stealth Scan against 192.168.40.131 in 110.72s (47 hosts left)
+Completed SYN Stealth Scan against 192.168.40.126 in 110.77s (46 hosts left)
+Completed SYN Stealth Scan against 192.168.40.98 in 110.80s (45 hosts left)
+Completed SYN Stealth Scan against 192.168.40.116 in 110.80s (44 hosts left)
+Completed SYN Stealth Scan against 192.168.40.112 in 110.81s (43 hosts left)
+Completed SYN Stealth Scan against 192.168.40.129 in 110.81s (42 hosts left)
+Completed SYN Stealth Scan against 192.168.40.189 in 110.84s (41 hosts left)
+Completed SYN Stealth Scan against 192.168.40.105 in 110.88s (40 hosts left)
+Completed SYN Stealth Scan against 192.168.40.107 in 110.94s (39 hosts left)
+Completed SYN Stealth Scan against 192.168.40.121 in 110.94s (38 hosts left)
+Completed SYN Stealth Scan against 192.168.40.123 in 110.94s (37 hosts left)
+Completed SYN Stealth Scan against 192.168.40.144 in 110.97s (36 hosts left)
+Completed SYN Stealth Scan against 192.168.40.140 in 111.06s (35 hosts left)
+Completed SYN Stealth Scan against 192.168.40.207 in 111.09s (34 hosts left)
+Completed SYN Stealth Scan against 192.168.40.97 in 111.19s (33 hosts left)
+Completed SYN Stealth Scan against 192.168.40.113 in 111.19s (32 hosts left)
+Completed SYN Stealth Scan against 192.168.40.139 in 111.19s (31 hosts left)
+Completed SYN Stealth Scan against 192.168.40.94 in 111.20s (30 hosts left)
+Completed SYN Stealth Scan against 192.168.40.128 in 111.23s (29 hosts left)
+Completed SYN Stealth Scan against 192.168.40.130 in 111.23s (28 hosts left)
+Completed SYN Stealth Scan against 192.168.40.141 in 111.23s (27 hosts left)
+Completed SYN Stealth Scan against 192.168.40.88 in 111.26s (26 hosts left)
+Completed SYN Stealth Scan against 192.168.40.125 in 111.39s (25 hosts left)
+Completed SYN Stealth Scan against 192.168.40.1 in 111.42s (24 hosts left)
+Completed SYN Stealth Scan against 192.168.40.99 in 111.43s (23 hosts left)
+Completed SYN Stealth Scan against 192.168.40.60 in 111.55s (22 hosts left)
+Completed SYN Stealth Scan against 192.168.40.96 in 111.55s (21 hosts left)
+Completed SYN Stealth Scan against 192.168.40.187 in 111.58s (20 hosts left)
+Completed SYN Stealth Scan against 192.168.40.120 in 111.60s (19 hosts left)
+Completed SYN Stealth Scan against 192.168.40.100 in 111.69s (18 hosts left)
+Completed SYN Stealth Scan against 192.168.40.223 in 111.81s (17 hosts left)
+Completed SYN Stealth Scan against 192.168.40.111 in 112.05s (16 hosts left)
+Completed SYN Stealth Scan against 192.168.40.173 in 112.06s (15 hosts left)
+Completed SYN Stealth Scan against 192.168.40.95 in 112.15s (14 hosts left)
+Completed SYN Stealth Scan against 192.168.40.143 in 112.20s (13 hosts left)
+Completed SYN Stealth Scan against 192.168.40.134 in 112.22s (12 hosts left)
+Completed SYN Stealth Scan against 192.168.40.142 in 112.25s (11 hosts left)
+Completed SYN Stealth Scan against 192.168.40.186 in 112.28s (10 hosts left)
+Completed SYN Stealth Scan against 192.168.40.132 in 112.31s (9 hosts left)
+Completed SYN Stealth Scan against 192.168.40.124 in 112.37s (8 hosts left)
+Completed SYN Stealth Scan against 192.168.40.188 in 112.39s (7 hosts left)
+Completed SYN Stealth Scan against 192.168.40.119 in 112.40s (6 hosts left)
+Completed SYN Stealth Scan against 192.168.40.176 in 112.44s (5 hosts left)
+Completed SYN Stealth Scan against 192.168.40.115 in 112.46s (4 hosts left)
+Completed SYN Stealth Scan against 192.168.40.90 in 112.48s (3 hosts left)
+Completed SYN Stealth Scan against 192.168.40.133 in 112.50s (2 hosts left)
+Completed SYN Stealth Scan against 192.168.40.136 in 122.29s (1 host left)
+Completed SYN Stealth Scan at 08:15, 127.58s elapsed (67000 total ports)
+Initiating UDP Scan at 08:15
+Scanning 67 hosts [1000 ports/host]
+Increasing send delay for 192.168.40.1 from 0 to 50 due to 21 out of 52 dropped probes since last increase.
+Increasing send delay for 192.168.40.1 from 50 to 100 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 192.168.40.94 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.95 from 0 to 50 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 192.168.40.95 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.116 from 0 to 50 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 192.168.40.97 from 0 to 50 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 192.168.40.117 from 0 to 50 due to 11 out of 18 dropped probes since last increase.
+Increasing send delay for 192.168.40.96 from 0 to 50 due to 11 out of 19 dropped probes since last increase.
+Increasing send delay for 192.168.40.96 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.95 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.96 from 100 to 200 due to max_successful_tryno increase to 6
+Warning: 192.168.40.95 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.116 from 50 to 100 due to max_successful_tryno increase to 5
+Warning: 192.168.40.96 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.117 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.94 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.94 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.207 from 0 to 50 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 192.168.40.136 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.113 from 0 to 50 due to 11 out of 26 dropped probes since last increase.
+Increasing send delay for 192.168.40.113 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.95 from 200 to 400 due to 11 out of 11 dropped probes since last increase.
+Increasing send delay for 192.168.40.113 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.136 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.136 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.113 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 2.58% done; ETC: 08:35 (0:19:29 remaining)
+Increasing send delay for 192.168.40.97 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.97 from 100 to 200 due to max_successful_tryno increase to 6
+Warning: 192.168.40.97 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.100 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.92 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.101 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.92 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.92 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.129 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.176 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.100 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.101 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.186 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.127 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.121 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.39 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.176 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.128 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.127 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.102 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.136 from 100 to 200 due to 11 out of 17 dropped probes since last increase.
+Increasing send delay for 192.168.40.110 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.134 from 0 to 50 due to max_successful_tryno increase to 5
+UDP Scan Timing: About 5.37% done; ETC: 08:34 (0:17:55 remaining)
+Increasing send delay for 192.168.40.110 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.129 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.110 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.134 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.49 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.49 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.134 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.49 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.102 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.120 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.120 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.111 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.120 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.111 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.111 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.135 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.135 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.135 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.137 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.138 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.104 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.102 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.119 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.49 from 100 to 200 due to 11 out of 24 dropped probes since last increase.
+Increasing send delay for 192.168.40.109 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.105 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.104 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.139 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.99 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.109 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.115 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.139 from 50 to 100 due to max_successful_tryno increase to 6
+adjust_timeouts2: packet supposedly had rtt of 9243000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9243000 microseconds.  Ignoring time.
+UDP Scan Timing: About 8.50% done; ETC: 08:34 (0:16:52 remaining)
+Increasing send delay for 192.168.40.98 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.39 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.90 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.52 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.52 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.39 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.136 from 200 to 400 due to 11 out of 20 dropped probes since last increase.
+Warning: 192.168.40.52 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.115 from 50 to 100 due to 11 out of 22 dropped probes since last increase.
+Increasing send delay for 192.168.40.115 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.138 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.119 from 50 to 100 due to 18 out of 44 dropped probes since last increase.
+Increasing send delay for 192.168.40.90 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.109 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.39 from 100 to 200 due to 11 out of 22 dropped probes since last increase.
+Increasing send delay for 192.168.40.112 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.93 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.93 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.93 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 12.99% done; ETC: 08:36 (0:17:51 remaining)
+Increasing send delay for 192.168.40.108 from 0 to 50 due to max_successful_tryno increase to 5
+Discovered open port 5351/udp on 192.168.40.102
+Increasing send delay for 192.168.40.108 from 50 to 100 due to 11 out of 22 dropped probes since last increase.
+Increasing send delay for 192.168.40.39 from 200 to 400 due to 11 out of 16 dropped probes since last increase.
+Discovered open port 5351/udp on 192.168.40.101
+Increasing send delay for 192.168.40.112 from 50 to 100 due to max_successful_tryno increase to 6
+Discovered open port 5351/udp on 192.168.40.223
+Increasing send delay for 192.168.40.91 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.90 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.89 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.91 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.91 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.136 from 400 to 800 due to 11 out of 25 dropped probes since last increase.
+Increasing send delay for 192.168.40.187 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.89 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.108 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.125 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.105 from 50 to 100 due to max_successful_tryno increase to 6
+UDP Scan Timing: About 17.16% done; ETC: 08:36 (0:16:44 remaining)
+Increasing send delay for 192.168.40.99 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.124 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.100 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.124 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.60 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.124 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.119 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.187 from 50 to 100 due to 14 out of 34 dropped probes since last increase.
+Increasing send delay for 192.168.40.126 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.98 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.140 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.107 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.98 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.60 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.107 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.107 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.173 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.125 from 50 to 100 due to 11 out of 27 dropped probes since last increase.
+Increasing send delay for 192.168.40.123 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.123 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.123 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.189 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.106 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.131 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.88 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.125 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.126 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.144 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.127 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.116 from 100 to 200 due to max_successful_tryno increase to 6
+Warning: 192.168.40.99 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.128 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.137 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.106 from 50 to 100 due to max_successful_tryno increase to 6
+UDP Scan Timing: About 20.56% done; ETC: 08:35 (0:15:43 remaining)
+Increasing send delay for 192.168.40.189 from 50 to 100 due to 11 out of 16 dropped probes since last increase.
+Warning: 192.168.40.129 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.144 from 50 to 100 due to 11 out of 17 dropped probes since last increase.
+Warning: 192.168.40.137 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.133 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.132 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.144 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.130 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.132 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.142 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.223 from 0 to 50 due to max_successful_tryno increase to 5
+Warning: 192.168.40.132 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.142 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.137 from 100 to 200 due to 11 out of 23 dropped probes since last increase.
+Increasing send delay for 192.168.40.130 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.39 from 400 to 800 due to 11 out of 13 dropped probes since last increase.
+Warning: 192.168.40.101 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.128 from 100 to 200 due to 15 out of 37 dropped probes since last increase.
+Increasing send delay for 192.168.40.223 from 50 to 100 due to max_successful_tryno increase to 6
+UDP Scan Timing: About 24.77% done; ETC: 08:35 (0:14:38 remaining)
+Warning: 192.168.40.104 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.60 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.88 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.121 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.188 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.207 from 50 to 100 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.173 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.122 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.122 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.122 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.186 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.126 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.141 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.143 from 0 to 50 due to max_successful_tryno increase to 5
+Increasing send delay for 192.168.40.188 from 50 to 100 due to 14 out of 34 dropped probes since last increase.
+UDP Scan Timing: About 29.03% done; ETC: 08:35 (0:13:37 remaining)
+Increasing send delay for 192.168.40.122 from 100 to 200 due to 11 out of 24 dropped probes since last increase.
+Increasing send delay for 192.168.40.188 from 100 to 200 due to 11 out of 26 dropped probes since last increase.
+Increasing send delay for 192.168.40.131 from 50 to 100 due to max_successful_tryno increase to 6
+Warning: 192.168.40.121 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.136 from 800 to 1000 due to 27 out of 67 dropped probes since last increase.
+Increasing send delay for 192.168.40.133 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.117 from 100 to 200 due to max_successful_tryno increase to 6
+Warning: 192.168.40.130 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.112 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 33.47% done; ETC: 08:34 (0:12:39 remaining)
+Increasing send delay for 192.168.40.39 from 800 to 1000 due to 11 out of 16 dropped probes since last increase.
+Warning: 192.168.40.88 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.106 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.89 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.141 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.143 from 50 to 100 due to max_successful_tryno increase to 6
+UDP Scan Timing: About 37.91% done; ETC: 08:34 (0:11:39 remaining)
+Warning: 192.168.40.176 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.173 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.140 from 50 to 100 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.124 from 100 to 200 due to 105 out of 262 dropped probes since last increase.
+UDP Scan Timing: About 42.39% done; ETC: 08:34 (0:10:41 remaining)
+Increasing send delay for 192.168.40.126 from 100 to 200 due to 112 out of 279 dropped probes since last increase.
+Warning: 192.168.40.105 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.186 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 47.24% done; ETC: 08:34 (0:09:44 remaining)
+UDP Scan Timing: About 51.97% done; ETC: 08:34 (0:08:48 remaining)
+Warning: 192.168.40.139 giving up on port because retransmission cap hit (6).
+Increasing send delay for 192.168.40.189 from 100 to 200 due to max_successful_tryno increase to 6
+Warning: 192.168.40.143 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.131 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.140 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.141 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 57.19% done; ETC: 08:34 (0:07:50 remaining)
+Warning: 192.168.40.138 giving up on port because retransmission cap hit (6).
+Warning: 192.168.40.133 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 62.14% done; ETC: 08:34 (0:06:54 remaining)
+Increasing send delay for 192.168.40.207 from 100 to 200 due to max_successful_tryno increase to 6
+Increasing send delay for 192.168.40.187 from 100 to 200 due to max_successful_tryno increase to 6
+UDP Scan Timing: About 67.16% done; ETC: 08:34 (0:05:57 remaining)
+adjust_timeouts2: packet supposedly had rtt of 9051000 microseconds.  Ignoring time.
+adjust_timeouts2: packet supposedly had rtt of 9051000 microseconds.  Ignoring time.
+UDP Scan Timing: About 72.52% done; ETC: 08:34 (0:04:59 remaining)
+Warning: 192.168.40.142 giving up on port because retransmission cap hit (6).
+UDP Scan Timing: About 77.48% done; ETC: 08:33 (0:04:04 remaining)
+UDP Scan Timing: About 82.53% done; ETC: 08:33 (0:03:08 remaining)
+UDP Scan Timing: About 87.69% done; ETC: 08:33 (0:02:12 remaining)
+Completed UDP Scan against 192.168.40.52 in 996.50s (66 hosts left)
+UDP Scan Timing: About 92.75% done; ETC: 08:33 (0:01:18 remaining)
+Completed UDP Scan against 192.168.40.98 in 1026.73s (65 hosts left)
+Completed UDP Scan against 192.168.40.93 in 1041.29s (64 hosts left)
+Completed UDP Scan against 192.168.40.109 in 1043.56s (63 hosts left)
+Completed UDP Scan against 192.168.40.99 in 1043.73s (62 hosts left)
+Completed UDP Scan against 192.168.40.123 in 1045.43s (61 hosts left)
+Completed UDP Scan against 192.168.40.1 in 1045.70s (60 hosts left)
+Completed UDP Scan against 192.168.40.107 in 1046.98s (59 hosts left)
+Completed UDP Scan against 192.168.40.120 in 1048.45s (58 hosts left)
+Completed UDP Scan against 192.168.40.121 in 1049.76s (57 hosts left)
+Completed UDP Scan against 192.168.40.110 in 1052.26s (56 hosts left)
+Completed UDP Scan against 192.168.40.138 in 1052.53s (55 hosts left)
+Completed UDP Scan against 192.168.40.60 in 1056.16s (54 hosts left)
+Completed UDP Scan against 192.168.40.92 in 1058.88s (53 hosts left)
+Discovered open port 53/udp on 192.168.40.101
+Completed UDP Scan against 192.168.40.106 in 1060.57s (52 hosts left)
+Completed UDP Scan against 192.168.40.88 in 1062.28s (51 hosts left)
+Completed UDP Scan against 192.168.40.127 in 1064.42s (50 hosts left)
+Completed UDP Scan against 192.168.40.112 in 1068.98s (49 hosts left)
+Completed UDP Scan against 192.168.40.173 in 1069.44s (48 hosts left)
+Completed UDP Scan against 192.168.40.105 in 1070.62s (47 hosts left)
+Completed UDP Scan against 192.168.40.129 in 1076.77s (46 hosts left)
+Completed UDP Scan against 192.168.40.130 in 1077.59s (45 hosts left)
+Completed UDP Scan against 192.168.40.111 in 1077.71s (44 hosts left)
+UDP Scan Timing: About 96.45% done; ETC: 08:34 (0:00:40 remaining)
+Completed UDP Scan against 192.168.40.94 in 1081.12s (43 hosts left)
+Discovered open port 53/udp on 192.168.40.102
+Completed UDP Scan against 192.168.40.143 in 1084.17s (42 hosts left)
+Completed UDP Scan against 192.168.40.89 in 1085.82s (41 hosts left)
+Completed UDP Scan against 192.168.40.140 in 1086.77s (40 hosts left)
+Completed UDP Scan against 192.168.40.91 in 1088.88s (39 hosts left)
+Completed UDP Scan against 192.168.40.141 in 1093.79s (38 hosts left)
+Completed UDP Scan against 192.168.40.176 in 1094.10s (37 hosts left)
+Completed UDP Scan against 192.168.40.135 in 1097.66s (36 hosts left)
+Completed UDP Scan against 192.168.40.186 in 1097.97s (35 hosts left)
+Completed UDP Scan against 192.168.40.134 in 1099.96s (34 hosts left)
+Completed UDP Scan against 192.168.40.223 in 1102.31s (33 hosts left)
+Completed UDP Scan against 192.168.40.104 in 1103.53s (32 hosts left)
+Completed UDP Scan against 192.168.40.142 in 1104.69s (31 hosts left)
+Completed UDP Scan against 192.168.40.137 in 1106.11s (30 hosts left)
+Completed UDP Scan against 192.168.40.139 in 1107.60s (29 hosts left)
+Completed UDP Scan against 192.168.40.90 in 1108.43s (28 hosts left)
+Completed UDP Scan against 192.168.40.133 in 1109.36s (27 hosts left)
+Completed UDP Scan against 192.168.40.100 in 1109.45s (26 hosts left)
+Completed UDP Scan against 192.168.40.131 in 1109.56s (25 hosts left)
+Completed UDP Scan against 192.168.40.187 in 1114.24s (24 hosts left)
+Completed UDP Scan against 192.168.40.101 in 1114.64s (23 hosts left)
+Completed UDP Scan against 192.168.40.124 in 1122.64s (22 hosts left)
+Completed UDP Scan against 192.168.40.132 in 1122.81s (21 hosts left)
+Completed UDP Scan against 192.168.40.126 in 1128.00s (20 hosts left)
+Completed UDP Scan against 192.168.40.207 in 1128.02s (19 hosts left)
+Completed UDP Scan against 192.168.40.122 in 1133.11s (18 hosts left)
+Completed UDP Scan against 192.168.40.102 in 1134.37s (17 hosts left)
+Completed UDP Scan against 192.168.40.116 in 1139.69s (16 hosts left)
+Completed UDP Scan against 192.168.40.117 in 1139.70s (15 hosts left)
+Completed UDP Scan against 192.168.40.49 in 1148.40s (14 hosts left)
+Completed UDP Scan against 192.168.40.115 in 1148.53s (13 hosts left)
+Completed UDP Scan against 192.168.40.128 in 1153.73s (12 hosts left)
+Completed UDP Scan against 192.168.40.97 in 1154.26s (11 hosts left)
+Completed UDP Scan against 192.168.40.125 in 1157.68s (10 hosts left)
+Completed UDP Scan against 192.168.40.188 in 1163.14s (9 hosts left)
+Warning: 192.168.40.144 giving up on port because retransmission cap hit (6).
+Completed UDP Scan against 192.168.40.189 in 1167.78s (8 hosts left)
+Completed UDP Scan against 192.168.40.108 in 1171.06s (7 hosts left)
+Completed UDP Scan against 192.168.40.119 in 1171.71s (6 hosts left)
+Completed UDP Scan against 192.168.40.113 in 1194.45s (5 hosts left)
+Completed UDP Scan against 192.168.40.144 in 1195.56s (4 hosts left)
+Completed UDP Scan against 192.168.40.96 in 1199.36s (3 hosts left)
+Completed UDP Scan against 192.168.40.95 in 1383.29s (2 hosts left)
+Completed UDP Scan against 192.168.40.39 in 1901.38s (1 host left)
+Completed UDP Scan at 08:56, 2452.13s elapsed (67000 total ports)
+Initiating Service scan at 08:56
+Scanning 819 services on 67 hosts
+Service scan Timing: About 0.61% done
+Service scan Timing: About 4.14% done; ETC: 09:57 (0:58:15 remaining)
+Service scan Timing: About 4.26% done; ETC: 10:08 (1:08:52 remaining)
+Service scan Timing: About 7.92% done; ETC: 09:50 (0:49:14 remaining)
+Service scan Timing: About 8.04% done; ETC: 09:56 (0:54:43 remaining)
+Service scan Timing: About 11.69% done; ETC: 09:46 (0:44:18 remaining)
+Service scan Timing: About 11.81% done; ETC: 09:50 (0:47:46 remaining)
+Service scan Timing: About 15.35% done; ETC: 09:45 (0:41:17 remaining)
+Service scan Timing: About 15.47% done; ETC: 09:48 (0:43:54 remaining)
+Service scan Timing: About 18.88% done; ETC: 09:42 (0:37:06 remaining)
+Service scan Timing: About 19.12% done; ETC: 09:47 (0:40:53 remaining)
+Service scan Timing: About 22.53% done; ETC: 09:42 (0:35:18 remaining)
+Service scan Timing: About 22.78% done; ETC: 09:46 (0:38:32 remaining)
+Service scan Timing: About 26.07% done; ETC: 09:42 (0:33:45 remaining)
+Service scan Timing: About 26.43% done; ETC: 09:45 (0:36:11 remaining)
+Service scan Timing: About 29.72% done; ETC: 09:42 (0:31:58 remaining)
+Service scan Timing: About 36.91% done; ETC: 09:42 (0:28:42 remaining)
+Service scan Timing: About 44.46% done; ETC: 09:42 (0:25:08 remaining)
+Service scan Timing: About 48.96% done; ETC: 09:41 (0:22:43 remaining)
+Service scan Timing: About 55.54% done; ETC: 09:41 (0:20:03 remaining)
+Service scan Timing: About 60.29% done; ETC: 09:41 (0:17:40 remaining)
+Service scan Timing: About 67.11% done; ETC: 09:41 (0:14:46 remaining)
+Service scan Timing: About 71.99% done; ETC: 09:41 (0:12:31 remaining)
+Service scan Timing: About 77.71% done; ETC: 09:41 (0:10:03 remaining)
+Service scan Timing: About 82.70% done; ETC: 09:41 (0:07:45 remaining)
+Service scan Timing: About 88.19% done; ETC: 09:42 (0:05:21 remaining)
+Service scan Timing: About 93.79% done; ETC: 09:41 (0:02:46 remaining)
+Service scan Timing: About 98.78% done; ETC: 09:42 (0:00:33 remaining)
+Completed Service scan at 09:41, 2702.42s elapsed (821 services on 67 hosts)
+Initiating OS detection (try #1) against 67 hosts
+Completed os scan against 192.168.40.99 in 11.258s (66 hosts left)
+Completed os scan against 192.168.40.102 in 11.258s (65 hosts left)
+Completed os scan against 192.168.40.104 in 11.258s (64 hosts left)
+Completed os scan against 192.168.40.105 in 11.258s (63 hosts left)
+Completed os scan against 192.168.40.141 in 11.258s (62 hosts left)
+Completed os scan against 192.168.40.173 in 11.258s (61 hosts left)
+Retrying OS detection (try #2) against 61 hosts
+WARNING: OS didn't match until try #2
+Completed os scan against 192.168.40.101 in 27.370s (60 hosts left)
+Retrying OS detection (try #3) against 4 hosts
+Retrying OS detection (try #4) against 4 hosts
+Retrying OS detection (try #5) against 4 hosts
+Initiating Traceroute at 09:42
+Completed Traceroute at 09:42, 1.40s elapsed
+Initiating Parallel DNS resolution of 68 hosts. at 09:42
+Completed Parallel DNS resolution of 68 hosts. at 09:42, 5.53s elapsed
+NSE: Script scanning 67 hosts.
+Initiating NSE at 09:42
+NSOCK ERROR [5345.2230s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #33): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5346.4380s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #42): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5346.5130s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #43): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5347.6190s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #49): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5347.7710s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #50): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5348.5600s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #53): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5348.7920s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #54): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5348.9470s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #55): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5349.7210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #56): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5350.0680s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #57): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5350.1620s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #58): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5350.5850s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #60): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5351.3490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #64): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5351.4140s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #68): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5358.1980s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #100): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5358.5740s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #105): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5362.2440s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #181): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5365.4340s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #263): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5365.9490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #275): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5368.8300s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #318): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5369.4590s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #329): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5370.1880s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #340): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5374.7300s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #368): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5377.4240s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #397): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5379.4420s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #424): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5380.3420s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #432): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5381.9620s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #437): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5385.0060s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #457): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5386.8180s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #465): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5389.2440s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #478): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5390.5330s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #482): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5392.7800s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #509): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5394.0640s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #519): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5397.7570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #528): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5399.9570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #542): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5400.7880s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #548): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5401.3950s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #552): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5406.1230s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #564): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5407.1990s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #571): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5408.0190s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #573): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5408.7810s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #577): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5413.3660s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #588): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5414.9630s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #597): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5415.5920s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #600): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5416.4140s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #603): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5421.6460s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #616): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5422.4420s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #619): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5422.8220s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #621): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5423.7600s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #624): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5428.8700s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #640): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5430.0040s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #644): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5430.3830s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #645): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5431.2730s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #648): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5437.1880s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #675): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5437.2540s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #676): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5437.6310s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #678): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5438.6400s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #680): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5444.3910s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #696): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5444.7670s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #698): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5445.2700s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #700): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5446.9080s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #704): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5451.9900s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #728): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5452.4910s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #730): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5454.1290s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #734): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5459.1170s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #749): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5459.3040s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #750): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5460.1800s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #752): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5463.8430s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #758): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5466.3770s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #770): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5466.5030s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #771): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5467.3890s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #773): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5471.0880s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #779): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5473.6800s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #792): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5474.0530s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #793): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5475.4380s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #796): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5478.3390s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #802): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5480.9310s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #814): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5481.2480s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #815): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5482.4330s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #817): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5485.5820s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #823): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5488.4260s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #836): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5489.2470s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #837): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5489.6270s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #838): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5493.6720s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #849): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5495.6320s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #857): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5496.4490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #858): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5497.3260s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #860): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5500.9160s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #870): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5503.6080s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #879): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5504.5500s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #882): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5504.5510s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #883): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5509.2130s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #895): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5510.8610s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #901): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5511.8030s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #904): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5512.6840s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #905): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5516.4610s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #916): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5518.9770s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #925): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5519.9190s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #926): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5521.5520s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #928): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5525.8380s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #944): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5526.2120s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #946): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5528.0240s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #948): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5528.7750s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #949): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5533.0790s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #965): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5535.2210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #969): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5535.9180s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #970): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5536.1080s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #971): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5540.5250s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #987): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5543.1210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #991): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5543.3110s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #992): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5543.3130s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #993): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5547.7280s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1008): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5550.5000s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1013): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5550.5630s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1014): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5551.2550s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1018): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5555.7780s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1034): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5557.7040s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1044): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5559.2250s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1062): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5560.3260s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1079): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5562.9570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1089): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5566.0110s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1099): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5566.4510s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1100): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5567.8670s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1109): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5570.9490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1114): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5573.8790s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1125): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5573.8800s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1126): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5575.5120s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1146): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5578.6830s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1159): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5581.1230s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1173): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5582.7170s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1182): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5582.9690s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1183): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5587.2190s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1199): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5588.9840s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1206): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5590.8360s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1218): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5592.5430s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1220): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5594.6370s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1230): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5596.2130s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1241): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5599.7890s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1249): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5601.8090s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1257): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5601.8720s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1259): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5603.6000s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1265): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5608.3530s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1282): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5609.0120s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1287): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5610.0430s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1294): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5612.0370s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1317): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5615.5760s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1336): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5616.3300s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1338): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5617.2700s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1342): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5620.2570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1353): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5623.5510s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1361): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5623.9910s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1365): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5625.9560s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1377): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5627.4610s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1388): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5630.9220s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1398): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5631.3540s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1400): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5633.2350s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1406): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5638.1200s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1428): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5638.7020s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1432): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5640.4580s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1438): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5645.8150s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1452): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5646.1260s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1455): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5648.5790s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1464): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5652.1770s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1481): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5653.0590s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1484): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5653.3720s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1486): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5656.5720s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1500): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5659.4220s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1510): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5660.5510s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1514): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5660.6750s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1515): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5665.4900s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1527): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5666.6200s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1532): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5667.8110s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1536): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5668.0650s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1537): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5672.7190s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1548): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5674.8120s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1561): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5675.1910s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1564): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5675.2540s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1565): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5680.6990s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1578): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5682.4580s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1587): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5682.9590s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1589): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5688.2490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1606): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5690.1350s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1613): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5690.1350s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1614): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5696.5140s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1638): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5697.3310s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1641): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5697.5470s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1643): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5703.8230s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1662): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5704.7010s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1665): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5705.0170s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1666): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5711.0750s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1683): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5711.8920s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1686): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5712.2700s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1687): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5718.3160s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1705): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5719.4450s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1708): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5719.9490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1709): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5725.5560s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1726): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5726.6910s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1729): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5727.5760s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1732): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5732.6670s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1745): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5733.2990s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1748): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5734.4420s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1752): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5734.8210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1753): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5739.8810s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1765): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5740.5080s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1769): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5741.9560s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1774): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5742.1470s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1775): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5747.1150s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1788): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5747.8810s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1791): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5749.2640s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1795): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5749.3890s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1796): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5756.5790s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1815): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5758.6550s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1818): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5761.5530s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1828): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5764.0010s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1834): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5765.9620s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1837): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5768.7980s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1845): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5773.1430s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1856): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5774.4660s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1858): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5776.0350s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1865): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5780.4310s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1874): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5781.7570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1876): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5783.4000s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1883): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5788.9010s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1893): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5789.0900s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1894): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5791.1570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1902): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5796.3210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1910): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5796.5110s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1911): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5798.4600s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1918): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5803.7610s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1927): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5803.8250s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1928): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5806.1530s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1935): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5811.0820s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1943): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5811.8390s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1945): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5813.4080s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1950): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5818.3260s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1958): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5819.4030s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1960): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5822.2330s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1966): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5825.5220s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1972): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5826.6590s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1975): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5829.4750s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1980): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5833.1310s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1986): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5834.6490s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1989): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5836.8530s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1993): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5840.7070s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #1998): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5843.2270s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2001): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5845.0540s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2003): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5848.2160s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2008): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5850.5460s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2010): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5852.5580s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2012): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5855.5820s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2017): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5859.8630s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2021): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5861.3020s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2022): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5863.7550s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2027): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5867.3060s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2030): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5868.6290s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2031): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5872.3990s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2036): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5875.7930s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2039): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5876.6160s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2042): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5879.6470s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2044): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5882.9820s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2046): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5883.8070s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2049): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5890.1330s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2053): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5890.4500s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2055): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5891.5210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2057): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5897.3780s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2060): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5897.7550s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2062): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5898.8820s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2064): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5904.9920s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2069): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5905.4360s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2070): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5908.8900s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2073): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5912.2220s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2076): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5912.9130s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2077): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5916.2010s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2080): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5920.0470s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2084): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5920.4290s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2085): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5926.5320s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2089): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5927.2880s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2091): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5927.7860s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2092): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5933.8220s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2096): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5934.9520s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2099): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5937.8570s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2101): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5941.0180s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2103): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5944.6030s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2106): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5945.1060s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2107): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5948.2620s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2109): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5951.8480s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2111): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5955.5660s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2114): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5959.0310s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2116): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5963.3680s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2119): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5966.3970s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2120): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5970.6710s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2123): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5976.9670s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2125): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5984.1930s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2129): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5991.6500s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2133): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [5998.9060s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2136): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6016.8210s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2143): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6024.2370s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2146): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6034.5300s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2150): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6042.0120s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2153): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6049.3640s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2157): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6056.6620s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2160): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6074.5480s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2167): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6081.7620s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2170): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6092.3840s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2174): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6099.6110s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2177): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6107.1480s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2181): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6114.4240s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2184): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6132.3460s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2191): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6139.6640s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2194): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6150.1140s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2198): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6157.4740s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2200): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6164.8820s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2203): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6172.1650s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2205): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6193.4320s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2210): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6200.7350s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2212): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6208.1770s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2215): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6215.4870s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2217): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6236.7440s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2222): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6244.1680s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2224): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6251.5240s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2227): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6258.7770s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2229): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6280.1410s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2234): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6287.4250s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2236): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6301.5370s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2238): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6315.5610s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2240): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+NSOCK ERROR [6329.5700s] mksock_bind_addr(): Bind to 0.0.0.0:500 failed (IOD #2242): An attempt was made to access a socket in a way forbidden by its access permissions.  (10013)
+Completed NSE at 09:59, 1000.34s elapsed
+Initiating NSE at 09:59
+Completed NSE at 10:00, 48.24s elapsed
+Initiating NSE at 10:00
+Completed NSE at 10:00, 0.02s elapsed
+Nmap scan report for 192.168.40.1
+Host is up (0.0010s latency).
+Not shown: 997 closed udp ports (port-unreach), 996 closed tcp ports (reset)
+PORT     STATE         SERVICE        VERSION
+21/tcp   open          ftp            MikroTik router ftpd 7.18.2
+80/tcp   open          http
+|_http-title: RouterOS
+| fingerprint-strings: 
+|   GetRequest: 
+|     HTTP/1.0 200 OK
+|     Cache-Control: max-age=31536000
+|     Connection: close
+|     Content-Length: 1280
+|     Content-Type: text/html
+|     Date: Sat, 05 Apr 2025 01:56:54 GMT
+|     Expires: Sun, 05 Apr 2026 01:56:54 GMT
+|     X-Frame-Options: sameorigin
+|     <!doctype html>
+|     <html lang="en">
+|     <meta charset="utf-8">
+|     <meta name="viewport" content="width=device-width, initial-scale=1">
+|     <link rel="icon" href="/favicon.png">
+|     <link rel="icon" href="/favicon.svg">
+|     <title>RouterOS</title>
+|     <link rel="stylesheet" href="/assets/style-692511ab2675.css">
+|     <script src="/assets/script-bd71a1293274.js"></script>
+|     <div class="login">
+|     <section>
+|     <div class="brand"><img src="mikrotik_logo.svg" alt=""></div>
+|     <form class="form" id="login">
+|     <div id="error" class="errorMessage"></div>
+|     <div>
+|     <label for="name">Login</label>
+|     <input id="name" autocomplete="username" type="text" data-defaultuser="admin">
+|     </div>
+|     <div>
+|     <label for="password">Password
+|   HTTPOptions, RTSPRequest: 
+|     HTTP/1.0 503 Service Unavailable
+|     Cache-Control: no-store
+|     Connection: close
+|     Content-Length: 109
+|     Content-Type: text/html
+|     Date: Sat, 05 Apr 2025 01:56:54 GMT
+|     Expires: 0
+|     Pragma: no-cache
+|     X-Frame-Options: sameorigin
+|     <!doctype html>
+|     <html lang=en>
+|     <title>Error 503 : unknown method</title>
+|_    <h1>Error 503 : unknown method</h1>
+|_http-favicon: Unknown favicon MD5: 199260FF00D27B811E41A06007CBCD96
+| http-methods: 
+|_  Supported Methods: GET HEAD
+| http-robots.txt: 1 disallowed entry 
+|_/
+2000/tcp open          bandwidth-test MikroTik bandwidth-test server
+8291/tcp open          unknown
+67/udp   open|filtered dhcps
+68/udp   open|filtered dhcpc
+123/udp  open|filtered ntp
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.95%I=7%D=4/5%Time=67F08DE6%P=i686-pc-windows-windows%r(G
+SF:etRequest,5E0,"HTTP/1\.0\x20200\x20OK\r\nCache-Control:\x20max-age=3153
+SF:6000\r\nConnection:\x20close\r\nContent-Length:\x201280\r\nContent-Type
+SF::\x20text/html\r\nDate:\x20Sat,\x2005\x20Apr\x202025\x2001:56:54\x20GMT
+SF:\r\nExpires:\x20Sun,\x2005\x20Apr\x202026\x2001:56:54\x20GMT\r\nX-Frame
+SF:-Options:\x20sameorigin\r\n\r\n<!doctype\x20html>\n<html\x20lang=\"en\"
+SF:>\n<meta\x20charset=\"utf-8\">\n<meta\x20name=\"viewport\"\x20content=\
+SF:"width=device-width,\x20initial-scale=1\">\n<link\x20rel=\"icon\"\x20hr
+SF:ef=\"/favicon\.png\">\n<link\x20rel=\"icon\"\x20href=\"/favicon\.svg\">
+SF:\n<title>RouterOS</title>\n<link\x20rel=\"stylesheet\"\x20href=\"/asset
+SF:s/style-692511ab2675\.css\">\n<script\x20src=\"/assets/script-bd71a1293
+SF:274\.js\"></script>\n\n<div\x20class=\"login\">\n<section>\n<div\x20cla
+SF:ss=\"brand\"><img\x20src=\"mikrotik_logo\.svg\"\x20alt=\"\"></div>\n<fo
+SF:rm\x20class=\"form\"\x20id=\"login\">\n<div\x20id=\"error\"\x20class=\"
+SF:errorMessage\"></div>\n<div>\n\x20\x20<label\x20for=\"name\">Login</lab
+SF:el>\n\x20\x20<input\x20id=\"name\"\x20autocomplete=\"username\"\x20type
+SF:=\"text\"\x20data-defaultuser=\"admin\">\n</div>\n<div>\n\x20\x20<label
+SF:\x20for=\"password\">Password")%r(HTTPOptions,14B,"HTTP/1\.0\x20503\x20
+SF:Service\x20Unavailable\r\nCache-Control:\x20no-store\r\nConnection:\x20
+SF:close\r\nContent-Length:\x20109\r\nContent-Type:\x20text/html\r\nDate:\
+SF:x20Sat,\x2005\x20Apr\x202025\x2001:56:54\x20GMT\r\nExpires:\x200\r\nPra
+SF:gma:\x20no-cache\r\nX-Frame-Options:\x20sameorigin\r\n\r\n<!doctype\x20
+SF:html>\n<html\x20lang=en>\n<title>Error\x20503\x20:\x20unknown\x20method
+SF:</title>\n<h1>Error\x20503\x20:\x20unknown\x20method</h1>\n")%r(RTSPReq
+SF:uest,14B,"HTTP/1\.0\x20503\x20Service\x20Unavailable\r\nCache-Control:\
+SF:x20no-store\r\nConnection:\x20close\r\nContent-Length:\x20109\r\nConten
+SF:t-Type:\x20text/html\r\nDate:\x20Sat,\x2005\x20Apr\x202025\x2001:56:54\
+SF:x20GMT\r\nExpires:\x200\r\nPragma:\x20no-cache\r\nX-Frame-Options:\x20s
+SF:ameorigin\r\n\r\n<!doctype\x20html>\n<html\x20lang=en>\n<title>Error\x2
+SF:0503\x20:\x20unknown\x20method</title>\n<h1>Error\x20503\x20:\x20unknow
+SF:n\x20method</h1>\n");
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=21%CT=1%CU=2%PV=Y%DS=1%DC=T%G=Y%TM=67F09CB5%P=i
+OS:686-pc-windows-windows)SEQ(CI=Z)SEQ(CI=Z%II=I)ECN(R=N)T1(R=N)T1(R=Y%DF=Y
+OS:%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F
+OS:=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%
+OS:T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD
+OS:=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE
+OS:(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 1 hop
+Service Info: Device: router
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+1   1.00 ms 192.168.40.1
+
+Nmap scan report for 192.168.40.39
+Host is up (0.13s latency).
+Not shown: 999 closed tcp ports (reset), 940 closed udp ports (port-unreach), 60 open|filtered udp ports (no-response)
+PORT     STATE    SERVICE VERSION
+1521/tcp filtered oracle
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+1   0.00 ms  192.168.50.1
+2   48.00 ms 192.168.40.39
+
+Nmap scan report for 192.168.40.49
+Host is up (0.040s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+19415/udp open|filtered unknown
+49196/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   137.00 ms 192.168.40.49
+
+Nmap scan report for 192.168.40.52
+Host is up (0.0087s latency).
+Not shown: 999 closed tcp ports (reset), 955 closed udp ports (port-unreach)
+PORT      STATE         SERVICE      VERSION
+22/tcp    open          ssh          Dropbear sshd 2022.83 (protocol 2.0)
+559/udp   open|filtered teedtap
+639/udp   open|filtered msdp
+643/udp   open|filtered sanity
+767/udp   open|filtered phonebook
+1043/udp  open|filtered boinc
+1124/udp  open|filtered hpvmmcontrol
+1433/udp  open|filtered ms-sql-s
+1457/udp  open|filtered valisys-lm
+1524/udp  open|filtered ingreslock
+4500/udp  open|filtered nat-t-ike
+6004/udp  open|filtered X11:4
+9103/udp  open|filtered bacula-sd
+9876/udp  open|filtered sd
+16862/udp open|filtered unknown
+16896/udp open|filtered unknown
+17424/udp open|filtered unknown
+17573/udp open|filtered unknown
+17674/udp open|filtered unknown
+18818/udp open|filtered unknown
+19197/udp open|filtered unknown
+19503/udp open|filtered unknown
+19616/udp open|filtered unknown
+20004/udp open|filtered unknown
+20366/udp open|filtered unknown
+20540/udp open|filtered unknown
+21016/udp open|filtered unknown
+21358/udp open|filtered unknown
+21568/udp open|filtered unknown
+21803/udp open|filtered unknown
+21834/udp open|filtered unknown
+25337/udp open|filtered unknown
+26872/udp open|filtered unknown
+26966/udp open|filtered unknown
+32768/udp open|filtered omad
+34125/udp open|filtered unknown
+34796/udp open|filtered unknown
+34855/udp open|filtered unknown
+36893/udp open|filtered unknown
+40847/udp open|filtered unknown
+45928/udp open|filtered unknown
+49172/udp open|filtered unknown
+49179/udp open|filtered unknown
+49191/udp open|filtered unknown
+57977/udp open|filtered unknown
+62677/udp open|filtered unknown
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=22%CT=1%CU=2%PV=Y%DS=2%DC=T%G=Y%TM=67F09CB5%P=i
+OS:686-pc-windows-windows)SEQ(SP=103%GCD=1%ISR=104%TI=Z%CI=I%II=I%TS=U)SEQ(
+OS:SP=103%GCD=1%ISR=109%TI=Z%CI=I%II=I%TS=U)SEQ(SP=104%GCD=1%ISR=107%TI=Z%C
+OS:I=I%II=I%TS=U)SEQ(SP=106%GCD=1%ISR=105%TI=Z%CI=I%II=I%TS=U)SEQ(SP=108%GC
+OS:D=1%ISR=108%TI=Z%TS=U)OPS(O1=M5B4NNSNW4%O2=M5B4NNSNW4%O3=M5B4NW4%O4=M5B4
+OS:NNSNW4%O5=M5B4NNSNW4%O6=M5B4NNS)WIN(W1=7210%W2=7210%W3=7210%W4=7210%W5=7
+OS:210%W6=7210)ECN(R=Y%DF=Y%T=40%W=7210%O=M5B4NNSNW4%CC=N%Q=)T1(R=Y%DF=Y%T=
+OS:40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%
+OS:O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=4
+OS:0%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%
+OS:Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=
+OS:Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   0.00 ms 192.168.40.52
+
+Nmap scan report for 192.168.40.60
+Host is up (0.00059s latency).
+Not shown: 999 closed tcp ports (reset), 972 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+22/tcp    open          ssh            Dropbear sshd 2022.83 (protocol 2.0)
+626/udp   open|filtered serialnumberd
+1029/udp  open|filtered solid-mux
+1040/udp  open|filtered netarx
+1053/udp  open|filtered remote-as
+1090/udp  open|filtered ff-fms
+3130/udp  open|filtered squid-ipc
+5355/udp  open|filtered llmnr
+16680/udp open|filtered unknown
+17423/udp open|filtered unknown
+17946/udp open|filtered unknown
+19541/udp open|filtered jcp
+20560/udp open|filtered unknown
+20678/udp open|filtered unknown
+21405/udp open|filtered unknown
+22799/udp open|filtered unknown
+28547/udp open|filtered unknown
+29810/udp open|filtered unknown
+32385/udp open|filtered unknown
+42056/udp open|filtered unknown
+47624/udp open|filtered directplaysrvr
+47981/udp open|filtered unknown
+49208/udp open|filtered unknown
+49222/udp open|filtered unknown
+50099/udp open|filtered unknown
+53571/udp open|filtered unknown
+55544/udp open|filtered unknown
+57172/udp open|filtered unknown
+62958/udp open|filtered unknown
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=22%CT=1%CU=2%PV=Y%DS=2%DC=T%G=Y%TM=67F09CB5%P=i
+OS:686-pc-windows-windows)SEQ(SP=101%GCD=2%ISR=108%TI=Z%CI=I%II=I%TS=U)SEQ(
+OS:SP=103%GCD=1%ISR=10B%TI=Z%CI=I%II=I%TS=U)SEQ(SP=104%GCD=1%ISR=10C%TI=Z%C
+OS:I=I%II=I%TS=U)SEQ(SP=106%GCD=1%ISR=108%TI=Z%CI=I%TS=U)SEQ(SP=FF%GCD=1%IS
+OS:R=108%TI=Z%CI=I%II=I%TS=U)OPS(O1=M5B4NNSNW4%O2=M5B4NNSNW4%O3=M5B4NW4%O4=
+OS:M5B4NNSNW4%O5=M5B4NNSNW4%O6=M5B4NNS)WIN(W1=7210%W2=7210%W3=7210%W4=7210%
+OS:W5=7210%W6=7210)ECN(R=Y%DF=Y%T=40%W=7210%O=M5B4NNSNW4%CC=N%Q=)T1(R=Y%DF=
+OS:Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%
+OS:F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y
+OS:%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%R
+OS:D=0%Q=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)I
+OS:E(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=255 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   0.00 ms 192.168.40.60
+
+Nmap scan report for 192.168.40.88
+Host is up (0.0039s latency).
+Not shown: 999 closed tcp ports (reset), 971 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+417/tcp   filtered      onmux
+500/udp   open|filtered isakmp
+1025/udp  open|filtered blackjack
+1048/udp  open|filtered neod2
+1065/udp  open|filtered syscomlan
+1419/udp  open|filtered timbuktu-srv3
+5002/udp  open|filtered rfe
+10000/udp open|filtered ndmp
+16711/udp open|filtered unknown
+16862/udp open|filtered unknown
+17459/udp open|filtered unknown
+19193/udp open|filtered unknown
+19227/udp open|filtered unknown
+19315/udp open|filtered keyshadow
+19650/udp open|filtered unknown
+21261/udp open|filtered unknown
+21333/udp open|filtered unknown
+21621/udp open|filtered unknown
+28840/udp open|filtered unknown
+29078/udp open|filtered unknown
+32775/udp open|filtered sometimes-rpc14
+40711/udp open|filtered unknown
+40915/udp open|filtered unknown
+43514/udp open|filtered unknown
+48761/udp open|filtered unknown
+49193/udp open|filtered unknown
+49197/udp open|filtered unknown
+49968/udp open|filtered unknown
+51717/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   9.00 ms 192.168.40.88
+
+Nmap scan report for 192.168.40.89
+Host is up (0.015s latency).
+Not shown: 1000 closed tcp ports (reset), 985 closed udp ports (port-unreach)
+PORT      STATE         SERVICE   VERSION
+464/udp   open|filtered kpasswd5
+1039/udp  open|filtered sbl
+1214/udp  open|filtered fasttrack
+16918/udp open|filtered unknown
+19489/udp open|filtered unknown
+20876/udp open|filtered unknown
+23354/udp open|filtered unknown
+23608/udp open|filtered unknown
+24606/udp open|filtered unknown
+31625/udp open|filtered unknown
+34570/udp open|filtered unknown
+44334/udp open|filtered unknown
+44923/udp open|filtered unknown
+49179/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   20.00 ms 192.168.40.89
+
+Nmap scan report for 192.168.40.90
+Host is up (0.011s latency).
+Not shown: 1000 closed tcp ports (reset), 984 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+800/udp   open|filtered mdbs_daemon
+1068/udp  open|filtered instl_bootc
+16838/udp open|filtered unknown
+17338/udp open|filtered unknown
+17459/udp open|filtered unknown
+18676/udp open|filtered unknown
+19500/udp open|filtered unknown
+21167/udp open|filtered unknown
+22053/udp open|filtered unknown
+31059/udp open|filtered unknown
+36458/udp open|filtered unknown
+39683/udp open|filtered unknown
+41446/udp open|filtered unknown
+43195/udp open|filtered unknown
+51717/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   19.00 ms 192.168.40.90
+
+Nmap scan report for 192.168.40.91
+Host is up (0.015s latency).
+Not shown: 1000 closed tcp ports (reset), 979 closed udp ports (port-unreach)
+PORT      STATE         SERVICE      VERSION
+137/udp   open|filtered netbios-ns
+513/udp   open|filtered who
+1124/udp  open|filtered hpvmmcontrol
+18134/udp open|filtered unknown
+19482/udp open|filtered unknown
+19616/udp open|filtered unknown
+20380/udp open|filtered unknown
+28547/udp open|filtered unknown
+30303/udp open|filtered unknown
+30718/udp open|filtered unknown
+32385/udp open|filtered unknown
+34125/udp open|filtered unknown
+43094/udp open|filtered unknown
+43370/udp open|filtered unknown
+49211/udp open|filtered unknown
+50612/udp open|filtered unknown
+52225/udp open|filtered unknown
+54114/udp open|filtered unknown
+54321/udp open|filtered bo2k
+62958/udp open|filtered unknown
+63420/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   13.00 ms 192.168.40.91
+
+Nmap scan report for 192.168.40.92
+Host is up (0.0060s latency).
+Not shown: 1000 closed tcp ports (reset), 968 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+2/udp     open|filtered compressnet
+137/udp   open|filtered netbios-ns
+684/udp   open|filtered corba-iiop-ssl
+1007/udp  open|filtered unknown
+1036/udp  open|filtered nsstp
+1804/udp  open|filtered enl
+2967/udp  open|filtered symantec-av
+4444/udp  open|filtered krb524
+16974/udp open|filtered unknown
+17338/udp open|filtered unknown
+17417/udp open|filtered unknown
+17505/udp open|filtered unknown
+17629/udp open|filtered unknown
+17888/udp open|filtered unknown
+18234/udp open|filtered unknown
+18373/udp open|filtered unknown
+18617/udp open|filtered unknown
+18996/udp open|filtered unknown
+19197/udp open|filtered unknown
+19998/udp open|filtered unknown
+20752/udp open|filtered unknown
+22846/udp open|filtered unknown
+33717/udp open|filtered unknown
+34079/udp open|filtered unknown
+40866/udp open|filtered unknown
+42577/udp open|filtered unknown
+43514/udp open|filtered unknown
+47624/udp open|filtered directplaysrvr
+49190/udp open|filtered unknown
+54321/udp open|filtered bo2k
+55544/udp open|filtered unknown
+62154/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   18.00 ms 192.168.40.92
+
+Nmap scan report for 192.168.40.93
+Host is up (0.015s latency).
+Not shown: 1000 closed tcp ports (reset), 976 closed udp ports (port-unreach)
+PORT      STATE         SERVICE       VERSION
+217/udp   open|filtered dbase
+686/udp   open|filtered hcp-wismar
+1040/udp  open|filtered netarx
+1419/udp  open|filtered timbuktu-srv3
+16680/udp open|filtered unknown
+16938/udp open|filtered unknown
+17018/udp open|filtered unknown
+18134/udp open|filtered unknown
+19632/udp open|filtered unknown
+20249/udp open|filtered unknown
+21698/udp open|filtered unknown
+32528/udp open|filtered unknown
+36778/udp open|filtered unknown
+40866/udp open|filtered unknown
+43824/udp open|filtered unknown
+49160/udp open|filtered unknown
+49174/udp open|filtered unknown
+49212/udp open|filtered unknown
+49262/udp open|filtered unknown
+54321/udp open|filtered bo2k
+54711/udp open|filtered unknown
+57410/udp open|filtered unknown
+60381/udp open|filtered unknown
+64590/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   11.00 ms 192.168.40.93
+
+Nmap scan report for 192.168.40.94
+Host is up (0.21s latency).
+Not shown: 1000 closed tcp ports (reset), 974 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+217/udp   open|filtered dbase
+407/udp   open|filtered timbuktu
+782/udp   open|filtered hp-managed-node
+814/udp   open|filtered unknown
+1060/udp  open|filtered polestar
+2223/udp  open|filtered rockwell-csp2
+16739/udp open|filtered unknown
+16862/udp open|filtered unknown
+17823/udp open|filtered unknown
+19120/udp open|filtered unknown
+19683/udp open|filtered unknown
+20031/udp open|filtered bakbonenetvault
+20126/udp open|filtered unknown
+20445/udp open|filtered unknown
+20842/udp open|filtered unknown
+21206/udp open|filtered unknown
+21655/udp open|filtered unknown
+23781/udp open|filtered unknown
+26720/udp open|filtered unknown
+27444/udp open|filtered Trinoo_Bcast
+30544/udp open|filtered unknown
+31189/udp open|filtered unknown
+36489/udp open|filtered unknown
+37783/udp open|filtered unknown
+49211/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   126.00 ms 192.168.40.94
+
+Nmap scan report for 192.168.40.95
+Host is up (0.10s latency).
+Not shown: 999 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+2106/tcp  filtered      ekshell
+34577/udp open|filtered unknown
+49200/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   109.00 ms 192.168.40.95
+
+Nmap scan report for 192.168.40.96
+Host is up (0.020s latency).
+Not shown: 1000 closed tcp ports (reset), 993 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+8010/udp  open|filtered unknown
+8193/udp  open|filtered sophos
+20126/udp open|filtered unknown
+21212/udp open|filtered unknown
+54321/udp open|filtered bo2k
+57843/udp open|filtered unknown
+58797/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   17.00 ms 192.168.40.96
+
+Nmap scan report for 192.168.40.97
+Host is up (0.020s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+8010/udp  open|filtered unknown
+19632/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   56.00 ms 192.168.40.97
+
+Nmap scan report for 192.168.40.98
+Host is up (0.11s latency).
+Not shown: 1000 closed tcp ports (reset), 970 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+42/udp    open|filtered nameserver
+162/udp   open|filtered snmptrap
+464/udp   open|filtered kpasswd5
+682/udp   open|filtered xfr
+999/udp   open|filtered applix
+1012/udp  open|filtered sometimes-rpc1
+1058/udp  open|filtered nim
+1064/udp  open|filtered jstel
+4666/udp  open|filtered edonkey
+5003/udp  open|filtered filemaker
+9001/udp  open|filtered etlservicemgr
+18156/udp open|filtered unknown
+18331/udp open|filtered unknown
+18485/udp open|filtered unknown
+19193/udp open|filtered unknown
+20279/udp open|filtered unknown
+20464/udp open|filtered unknown
+21298/udp open|filtered unknown
+21318/udp open|filtered unknown
+22109/udp open|filtered unknown
+24854/udp open|filtered unknown
+25240/udp open|filtered unknown
+26966/udp open|filtered unknown
+33744/udp open|filtered unknown
+42434/udp open|filtered unknown
+43824/udp open|filtered unknown
+48078/udp open|filtered unknown
+49173/udp open|filtered unknown
+54321/udp open|filtered bo2k
+62677/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   12.00 ms 192.168.40.98
+
+Nmap scan report for 192.168.40.99
+Host is up (0.0013s latency).
+Not shown: 997 closed tcp ports (reset), 973 closed udp ports (port-unreach)
+PORT      STATE         SERVICE  VERSION
+22/tcp    open          ssh      Dropbear sshd (protocol 2.0)
+80/tcp    open          http     BusyBox http 1.19.4
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+443/tcp   open          ssl/http BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   0be1:95f4:2dab:f062:9d1e:bfe2:6271:e4ee
+|_SHA-1: 5823:e8bb:06a6:0a01:82e4:2245:5bb8:1df0:ff55:1eda
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/plain).
+67/udp    open|filtered dhcps
+643/udp   open|filtered sanity
+838/udp   open|filtered unknown
+996/udp   open|filtered vsinet
+1007/udp  open|filtered unknown
+1040/udp  open|filtered netarx
+1886/udp  open|filtered leoip
+3296/udp  open|filtered rib-slm
+9877/udp  open|filtered unknown
+16816/udp open|filtered unknown
+16839/udp open|filtered unknown
+16974/udp open|filtered unknown
+17185/udp open|filtered wdbrpc
+18835/udp open|filtered unknown
+19197/udp open|filtered unknown
+19995/udp open|filtered unknown
+21383/udp open|filtered unknown
+22996/udp open|filtered unknown
+23781/udp open|filtered unknown
+34570/udp open|filtered unknown
+34758/udp open|filtered unknown
+34861/udp open|filtered unknown
+37602/udp open|filtered unknown
+49190/udp open|filtered unknown
+49202/udp open|filtered unknown
+49503/udp open|filtered unknown
+51456/udp open|filtered unknown
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Uptime guess: 7.864 days (since Fri Mar 28 13:16:34 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=249 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.99
+
+Nmap scan report for 192.168.40.100
+Host is up (0.0060s latency).
+Not shown: 1000 closed tcp ports (reset), 992 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+1060/udp  open|filtered polestar
+2967/udp  open|filtered symantec-av
+8900/udp  open|filtered jmb-cds1
+20540/udp open|filtered unknown
+29256/udp open|filtered unknown
+31625/udp open|filtered unknown
+54094/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   4.00 ms 192.168.40.100
+
+Nmap scan report for 192.168.40.101
+Host is up (0.0099s latency).
+Not shown: 997 closed tcp ports (reset), 990 closed udp ports (port-unreach)
+PORT      STATE         SERVICE  VERSION
+53/tcp    open          domain   dnsmasq 2.83
+80/tcp    open          http     BusyBox http 1.19.4
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/html).
+443/tcp   open          ssl/http BusyBox http 1.19.4
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   d0a1:ae27:e510:e7c7:1438:501a:072c:ff0c
+|_SHA-1: cd46:8466:9dfd:95da:241d:2ace:facf:99da:5812:a458
+|_http-title: Site doesn't have a title (text/html).
+53/udp    open          domain   dnsmasq 2.83
+| dns-nsid: 
+|_  bind.version: dnsmasq-2.83
+|_dns-recursion: Recursion appears to be enabled
+67/udp    open|filtered dhcps
+68/udp    open|filtered dhcpc
+1060/udp  open|filtered polestar
+5351/udp  open          nat-pmp?
+5355/udp  open|filtered llmnr
+19165/udp open|filtered unknown
+20154/udp open|filtered unknown
+21621/udp open|filtered unknown
+21698/udp open|filtered unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port5351-UDP:V=7.95%I=7%D=4/5%Time=67F0929C%P=i686-pc-windows-windows%r
+SF:(NAT_PMP_ADDR,C,"\0\x80\0\x03\0\x0b\xa24\0\0\0\0")%r(DNSVersionBindReq,
+SF:8,"\0\x86\0\x05\0\x0b\xa2>")%r(DNSStatusRequest,C,"\0\x80\0\x03\0\x0b\x
+SF:a2C\0\0\0\0")%r(Help,8,"\0\xe5\0\x01\0\x0b\xa2M")%r(SIPOptions,8,"\0\xd
+SF:0\0\x01\0\x0b\xa2R")%r(NTPRequest,8,"\0\x80\0\x01\0\x0b\xa2_")%r(SNMPv3
+SF:GetRequest,8,"\0\xba\0\x01\0\x0b\xa2i")%r(AFSVersionRequest,C,"\0\x80\0
+SF:\x03\0\x0b\xa2s\0\0\0\0")%r(DNS-SD,C,"\0\x80\0\x03\0\x0b\xa2x\0\0\0\0")
+SF:%r(Citrix,8,"\0\x80\0\x01\0\x0b\xa2}")%r(sybaseanywhere,8,"\0\x80\0\x01
+SF:\0\x0b\xa2\x87")%r(NetMotionMobility,8,"\0\xc0\0\x05\0\x0b\xa2\x8c");
+Device type: general purpose
+Running: Linux 4.X
+OS CPE: cpe:/o:linux:linux_kernel:4.14
+OS details: OpenWrt 19.07 (Linux 4.14)
+Uptime guess: 8.851 days (since Thu Mar 27 13:34:56 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.101
+
+Nmap scan report for 192.168.40.102
+Host is up (0.0020s latency).
+Not shown: 997 closed tcp ports (reset), 986 closed udp ports (port-unreach)
+PORT      STATE         SERVICE      VERSION
+53/tcp    open          domain       dnsmasq 2.83
+80/tcp    open          http         BusyBox http 1.19.4
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/html).
+443/tcp   open          ssl/http     BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   4d6c:94b2:9334:70f5:b94b:8ba7:8e21:9409
+|_SHA-1: c7e1:9830:8a98:4c2f:c61c:20c0:bcf9:57ef:810b:267d
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/html).
+53/udp    open          domain       dnsmasq 2.83
+|_dns-recursion: Recursion appears to be enabled
+| dns-nsid: 
+|_  bind.version: dnsmasq-2.83
+67/udp    open|filtered dhcps
+1053/udp  open|filtered remote-as
+1101/udp  open|filtered pt2-discover
+5351/udp  open          nat-pmp?
+20919/udp open|filtered unknown
+34892/udp open|filtered unknown
+39213/udp open|filtered sygatefw
+39723/udp open|filtered unknown
+40708/udp open|filtered unknown
+46836/udp open|filtered unknown
+49156/udp open|filtered unknown
+49165/udp open|filtered unknown
+50497/udp open|filtered unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port5351-UDP:V=7.95%I=7%D=4/5%Time=67F092EF%P=i686-pc-windows-windows%r
+SF:(NAT_PMP_ADDR,C,"\0\x80\0\x03\0\x10\xfd\x03\0\0\0\0")%r(DNSVersionBindR
+SF:eq,8,"\0\x86\0\x05\0\x10\xfd\r")%r(DNSStatusRequest,C,"\0\x80\0\x03\0\x
+SF:10\xfd\x12\0\0\0\0")%r(Help,8,"\0\xe5\0\x01\0\x10\xfd\x1c")%r(SIPOption
+SF:s,8,"\0\xd0\0\x01\0\x10\xfd!")%r(NTPRequest,8,"\0\x80\0\x01\0\x10\xfd\.
+SF:")%r(SNMPv3GetRequest,8,"\0\xba\0\x01\0\x10\xfd8")%r(AFSVersionRequest,
+SF:C,"\0\x80\0\x03\0\x10\xfdB\0\0\0\0")%r(DNS-SD,C,"\0\x80\0\x03\0\x10\xfd
+SF:G\0\0\0\0")%r(Citrix,8,"\0\x80\0\x01\0\x10\xfdL")%r(sybaseanywhere,8,"\
+SF:0\x80\0\x01\0\x10\xfdV")%r(NetMotionMobility,8,"\0\xc0\0\x05\0\x10\xfd\
+SF:[");
+Device type: general purpose
+Running: Linux 4.X
+OS CPE: cpe:/o:linux:linux_kernel:4.14
+OS details: OpenWrt 19.07 (Linux 4.14)
+Uptime guess: 12.911 days (since Sun Mar 23 12:07:34 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.102
+
+Nmap scan report for 192.168.40.104
+Host is up (0.0012s latency).
+Not shown: 997 closed tcp ports (reset), 988 closed udp ports (port-unreach)
+PORT      STATE         SERVICE  VERSION
+22/tcp    open          ssh      Dropbear sshd (protocol 2.0)
+80/tcp    open          http     BusyBox http 1.19.4
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/html).
+443/tcp   open          ssl/http BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   028c:dae4:a080:f2e8:0cc5:d544:c425:293a
+|_SHA-1: 6096:ea68:ec5a:52b0:3627:5ef8:12d7:f1fa:088f:c03b
+|_http-title: Site doesn't have a title (text/plain).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+67/udp    open|filtered dhcps
+68/udp    open|filtered dhcpc
+1100/udp  open|filtered mctp
+9020/udp  open|filtered tambora
+16838/udp open|filtered unknown
+17091/udp open|filtered unknown
+17185/udp open|filtered wdbrpc
+19273/udp open|filtered unknown
+19956/udp open|filtered unknown
+20146/udp open|filtered unknown
+23354/udp open|filtered unknown
+49160/udp open|filtered unknown
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Uptime guess: 6.981 days (since Sat Mar 29 10:27:33 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=253 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.104
+
+Nmap scan report for 192.168.40.105
+Host is up (0.0013s latency).
+Not shown: 997 closed tcp ports (reset), 987 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+22/tcp    open          ssh            Dropbear sshd (protocol 2.0)
+80/tcp    open          http           BusyBox http 1.19.4
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/html).
+443/tcp   open          ssl/http       BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   f2ec:00aa:ba6d:046c:39b4:2694:575a:865d
+|_SHA-1: 1c58:408e:71e7:2c59:8531:01d9:2fc7:dfa1:7809:e31d
+|_http-title: Site doesn't have a title (text/plain).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+67/udp    open|filtered dhcps
+434/udp   open|filtered mobileip-agent
+513/udp   open|filtered who
+2967/udp  open|filtered symantec-av
+17629/udp open|filtered unknown
+21663/udp open|filtered unknown
+21702/udp open|filtered unknown
+21967/udp open|filtered unknown
+30303/udp open|filtered unknown
+30656/udp open|filtered unknown
+32528/udp open|filtered unknown
+36458/udp open|filtered unknown
+49211/udp open|filtered unknown
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Uptime guess: 8.919 days (since Thu Mar 27 11:57:22 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=260 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.105
+
+Nmap scan report for 192.168.40.106
+Host is up (0.014s latency).
+Not shown: 1000 closed tcp ports (reset), 983 closed udp ports (port-unreach)
+PORT      STATE         SERVICE       VERSION
+767/udp   open|filtered phonebook
+1058/udp  open|filtered nim
+1419/udp  open|filtered timbuktu-srv3
+17989/udp open|filtered unknown
+19154/udp open|filtered unknown
+19625/udp open|filtered unknown
+20665/udp open|filtered unknown
+31625/udp open|filtered unknown
+34579/udp open|filtered unknown
+40019/udp open|filtered unknown
+40622/udp open|filtered unknown
+46093/udp open|filtered unknown
+49166/udp open|filtered unknown
+49194/udp open|filtered unknown
+49503/udp open|filtered unknown
+54321/udp open|filtered bo2k
+64590/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   4.00 ms 192.168.40.106
+
+Nmap scan report for 192.168.40.107
+Host is up (0.016s latency).
+Not shown: 1000 closed tcp ports (reset), 980 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+539/udp   open|filtered apertus-ldp
+559/udp   open|filtered teedtap
+684/udp   open|filtered corba-iiop-ssl
+814/udp   open|filtered unknown
+16449/udp open|filtered unknown
+20206/udp open|filtered unknown
+20288/udp open|filtered unknown
+25541/udp open|filtered unknown
+27015/udp open|filtered halflife
+29256/udp open|filtered unknown
+32528/udp open|filtered unknown
+32775/udp open|filtered sometimes-rpc14
+32778/udp open|filtered sometimes-rpc20
+33866/udp open|filtered unknown
+34125/udp open|filtered unknown
+37144/udp open|filtered unknown
+37783/udp open|filtered unknown
+40866/udp open|filtered unknown
+51554/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   21.00 ms 192.168.40.107
+
+Nmap scan report for 192.168.40.108
+Host is up (0.025s latency).
+Not shown: 1000 closed tcp ports (reset), 996 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+539/udp   open|filtered apertus-ldp
+16420/udp open|filtered unknown
+19374/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   9.00 ms 192.168.40.108
+
+Nmap scan report for 192.168.40.109
+Host is up (0.040s latency).
+Not shown: 1000 closed tcp ports (reset), 977 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+363/udp   open|filtered rsvp_tunnel
+767/udp   open|filtered phonebook
+1007/udp  open|filtered unknown
+5003/udp  open|filtered filemaker
+5353/udp  open|filtered zeroconf
+5500/udp  open|filtered securid
+8001/udp  open|filtered vcom-tunnel
+16829/udp open|filtered unknown
+18683/udp open|filtered unknown
+20262/udp open|filtered unknown
+20678/udp open|filtered unknown
+21261/udp open|filtered unknown
+27892/udp open|filtered unknown
+30263/udp open|filtered unknown
+31109/udp open|filtered unknown
+34125/udp open|filtered unknown
+34578/udp open|filtered unknown
+42627/udp open|filtered unknown
+47624/udp open|filtered directplaysrvr
+49173/udp open|filtered unknown
+54321/udp open|filtered bo2k
+55587/udp open|filtered unknown
+64590/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   6.00 ms 192.168.40.109
+
+Nmap scan report for 192.168.40.110
+Host is up (0.042s latency).
+Not shown: 999 closed tcp ports (reset), 986 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+1248/tcp  filtered      hermes
+19/udp    open|filtered chargen
+1433/udp  open|filtered ms-sql-s
+16503/udp open|filtered unknown
+17824/udp open|filtered unknown
+19415/udp open|filtered unknown
+19682/udp open|filtered unknown
+25375/udp open|filtered unknown
+31337/udp open|filtered BackOrifice
+32777/udp open|filtered sometimes-rpc18
+41774/udp open|filtered unknown
+51255/udp open|filtered unknown
+54321/udp open|filtered bo2k
+57410/udp open|filtered unknown
+63420/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   7.00 ms 192.168.40.110
+
+Nmap scan report for 192.168.40.111
+Host is up (0.15s latency).
+Not shown: 1000 closed tcp ports (reset), 986 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+68/udp    open|filtered dhcpc
+17580/udp open|filtered unknown
+17585/udp open|filtered unknown
+19504/udp open|filtered unknown
+19682/udp open|filtered unknown
+20031/udp open|filtered bakbonenetvault
+21468/udp open|filtered unknown
+23176/udp open|filtered unknown
+35777/udp open|filtered unknown
+39714/udp open|filtered unknown
+42627/udp open|filtered unknown
+49185/udp open|filtered unknown
+51554/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   6.00 ms 192.168.40.111
+
+Nmap scan report for 192.168.40.112
+Host is up (0.16s latency).
+Not shown: 1000 closed tcp ports (reset), 984 closed udp ports (port-unreach)
+PORT      STATE         SERVICE    VERSION
+407/udp   open|filtered timbuktu
+686/udp   open|filtered hcp-wismar
+1072/udp  open|filtered cardax
+2051/udp  open|filtered epnsdp
+5500/udp  open|filtered securid
+8000/udp  open|filtered irdmi
+16766/udp open|filtered unknown
+17585/udp open|filtered unknown
+18373/udp open|filtered unknown
+20678/udp open|filtered unknown
+24007/udp open|filtered unknown
+25462/udp open|filtered unknown
+30365/udp open|filtered unknown
+37761/udp open|filtered unknown
+51554/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   9.00 ms 192.168.40.112
+
+Nmap scan report for 192.168.40.113
+Host is up (0.075s latency).
+Not shown: 1000 closed tcp ports (reset), 998 closed udp ports (port-unreach)
+PORT      STATE         SERVICE      VERSION
+1124/udp  open|filtered hpvmmcontrol
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   9.00 ms 192.168.40.113
+
+Nmap scan report for 192.168.40.115
+Host is up (0.012s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+539/udp   open|filtered apertus-ldp
+49180/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.115
+
+Nmap scan report for 192.168.40.116
+Host is up (0.028s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+539/udp   open|filtered apertus-ldp
+54321/udp open|filtered bo2k
+61481/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   8.00 ms 192.168.40.116
+
+Nmap scan report for 192.168.40.117
+Host is up (0.0065s latency).
+Not shown: 999 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE       VERSION
+5120/tcp  filtered      barracuda-bbs
+20540/udp open|filtered unknown
+32798/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   8.00 ms 192.168.40.117
+
+Nmap scan report for 192.168.40.119
+Host is up (0.034s latency).
+Not shown: 1000 closed tcp ports (reset), 999 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   39.00 ms 192.168.40.119
+
+Nmap scan report for 192.168.40.120
+Host is up (0.016s latency).
+Not shown: 1000 closed tcp ports (reset), 987 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+775/udp   open|filtered acmaint_transd
+1057/udp  open|filtered startron
+2362/udp  open|filtered digiman
+3052/udp  open|filtered apc-3052
+3703/udp  open|filtered adobeserver-3
+18228/udp open|filtered unknown
+19687/udp open|filtered unknown
+23781/udp open|filtered unknown
+25709/udp open|filtered unknown
+28543/udp open|filtered unknown
+31625/udp open|filtered unknown
+52225/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   42.00 ms 192.168.40.120
+
+Nmap scan report for 192.168.40.121
+Host is up (0.0082s latency).
+Not shown: 1000 closed tcp ports (reset), 985 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+1012/udp  open|filtered sometimes-rpc1
+1101/udp  open|filtered pt2-discover
+5093/udp  open|filtered sentinel-lm
+10080/udp open|filtered amanda
+16708/udp open|filtered unknown
+18807/udp open|filtered unknown
+19197/udp open|filtered unknown
+20279/udp open|filtered unknown
+34855/udp open|filtered unknown
+44185/udp open|filtered unknown
+45380/udp open|filtered unknown
+52225/udp open|filtered unknown
+54114/udp open|filtered unknown
+54321/udp open|filtered bo2k
+57843/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   10.00 ms 192.168.40.121
+
+Nmap scan report for 192.168.40.122
+Host is up (0.16s latency).
+Not shown: 1000 closed tcp ports (reset), 988 closed udp ports (port-unreach)
+PORT      STATE         SERVICE    VERSION
+826/udp   open|filtered unknown
+1049/udp  open|filtered td-postman
+16948/udp open|filtered unknown
+16974/udp open|filtered unknown
+19273/udp open|filtered unknown
+21902/udp open|filtered unknown
+22043/udp open|filtered unknown
+22123/udp open|filtered unknown
+25931/udp open|filtered unknown
+43195/udp open|filtered unknown
+54321/udp open|filtered bo2k
+64080/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   22.00 ms 192.168.40.122
+
+Nmap scan report for 192.168.40.123
+Host is up (0.0066s latency).
+Not shown: 999 closed tcp ports (reset), 985 closed udp ports (port-unreach)
+PORT      STATE         SERVICE   VERSION
+417/tcp   filtered      onmux
+17/udp    open|filtered qotd
+19/udp    open|filtered chargen
+767/udp   open|filtered phonebook
+1023/udp  open|filtered unknown
+19165/udp open|filtered unknown
+20665/udp open|filtered unknown
+21663/udp open|filtered unknown
+25375/udp open|filtered unknown
+33872/udp open|filtered unknown
+40539/udp open|filtered unknown
+49178/udp open|filtered unknown
+49210/udp open|filtered unknown
+49212/udp open|filtered unknown
+49222/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   10.00 ms 192.168.40.123
+
+Nmap scan report for 192.168.40.124
+Host is up (0.14s latency).
+Not shown: 1000 closed tcp ports (reset), 996 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+17673/udp open|filtered unknown
+19722/udp open|filtered unknown
+20851/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   65.00 ms 192.168.40.124
+
+Nmap scan report for 192.168.40.125
+Host is up (0.022s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+20389/udp open|filtered unknown
+21902/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   124.00 ms 192.168.40.125
+
+Nmap scan report for 192.168.40.126
+Host is up (0.047s latency).
+Not shown: 1000 closed tcp ports (reset), 996 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+4666/udp  open|filtered edonkey
+22123/udp open|filtered unknown
+49185/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   220.00 ms 192.168.40.126
+
+Nmap scan report for 192.168.40.127
+Host is up (0.022s latency).
+Not shown: 1000 closed tcp ports (reset), 990 closed udp ports (port-unreach)
+PORT      STATE         SERVICE  VERSION
+67/udp    open|filtered dhcps
+1057/udp  open|filtered startron
+8900/udp  open|filtered jmb-cds1
+17592/udp open|filtered unknown
+17615/udp open|filtered unknown
+18485/udp open|filtered unknown
+44101/udp open|filtered unknown
+50497/udp open|filtered unknown
+50919/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   110.00 ms 192.168.40.127
+
+Nmap scan report for 192.168.40.128
+Host is up (0.057s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE        VERSION
+685/udp   open|filtered mdc-portmapper
+17592/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   2.00 ms 192.168.40.128
+
+Nmap scan report for 192.168.40.129
+Host is up (0.16s latency).
+Not shown: 1000 closed tcp ports (reset), 992 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+17077/udp open|filtered unknown
+17282/udp open|filtered unknown
+17468/udp open|filtered unknown
+32931/udp open|filtered unknown
+38293/udp open|filtered landesk-cba
+40708/udp open|filtered unknown
+49215/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   4.00 ms 192.168.40.129
+
+Nmap scan report for 192.168.40.130
+Host is up (0.087s latency).
+Not shown: 1000 closed tcp ports (reset), 986 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+780/udp   open|filtered wpgs
+786/udp   open|filtered concert
+1065/udp  open|filtered syscomlan
+1813/udp  open|filtered radacct
+2051/udp  open|filtered epnsdp
+18987/udp open|filtered unknown
+20919/udp open|filtered unknown
+21364/udp open|filtered unknown
+31073/udp open|filtered unknown
+31337/udp open|filtered BackOrifice
+32528/udp open|filtered unknown
+34079/udp open|filtered unknown
+54321/udp open|filtered bo2k
+57813/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   79.00 ms 192.168.40.130
+
+Nmap scan report for 192.168.40.131
+Host is up (0.080s latency).
+Not shown: 1000 closed tcp ports (reset), 991 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+18996/udp open|filtered unknown
+20206/udp open|filtered unknown
+20919/udp open|filtered unknown
+21111/udp open|filtered unknown
+21556/udp open|filtered unknown
+34358/udp open|filtered unknown
+40732/udp open|filtered unknown
+49262/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   3.00 ms 192.168.40.131
+
+Nmap scan report for 192.168.40.132
+Host is up (0.0046s latency).
+Not shown: 1000 closed tcp ports (reset), 991 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+363/udp   open|filtered rsvp_tunnel
+16739/udp open|filtered unknown
+18987/udp open|filtered unknown
+30975/udp open|filtered unknown
+32774/udp open|filtered sometimes-rpc12
+41446/udp open|filtered unknown
+41702/udp open|filtered unknown
+50099/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   14.00 ms 192.168.40.132
+
+Nmap scan report for 192.168.40.133
+Host is up (0.020s latency).
+Not shown: 1000 closed tcp ports (reset), 992 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+158/udp   open|filtered pcmail-srv
+17989/udp open|filtered unknown
+20309/udp open|filtered unknown
+28840/udp open|filtered unknown
+31073/udp open|filtered unknown
+38293/udp open|filtered landesk-cba
+42627/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   103.00 ms 192.168.40.133
+
+Nmap scan report for 192.168.40.134
+Host is up (0.0041s latency).
+Not shown: 1000 closed tcp ports (reset), 991 closed udp ports (port-unreach)
+PORT      STATE         SERVICE       VERSION
+2002/udp  open|filtered globe
+4500/udp  open|filtered nat-t-ike
+9001/udp  open|filtered etlservicemgr
+18373/udp open|filtered unknown
+21206/udp open|filtered unknown
+31073/udp open|filtered unknown
+31365/udp open|filtered unknown
+49197/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   8.00 ms 192.168.40.134
+
+Nmap scan report for 192.168.40.135
+Host is up (0.011s latency).
+Not shown: 999 closed tcp ports (reset), 994 closed udp ports (port-unreach)
+PORT      STATE         SERVICE    VERSION
+683/tcp   filtered      corba-iiop
+513/udp   open|filtered who
+25375/udp open|filtered unknown
+31365/udp open|filtered unknown
+41308/udp open|filtered unknown
+41638/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   4.00 ms 192.168.40.135
+
+Nmap scan report for 192.168.40.136
+Host is up (0.031s latency).
+Not shown: 996 closed tcp ports (reset), 956 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+3071/tcp  filtered      csd-mgmt-port
+7920/tcp  filtered      unknown
+9593/tcp  filtered      cba8
+27356/tcp filtered      unknown
+1036/udp  open|filtered nsstp
+1037/udp  open|filtered ams
+1100/udp  open|filtered mctp
+1214/udp  open|filtered fasttrack
+2343/udp  open|filtered nati-logos
+5050/udp  open|filtered mmcc
+8193/udp  open|filtered sophos
+16711/udp open|filtered unknown
+17331/udp open|filtered unknown
+17787/udp open|filtered unknown
+17824/udp open|filtered unknown
+17939/udp open|filtered unknown
+18319/udp open|filtered unknown
+18987/udp open|filtered unknown
+19332/udp open|filtered unknown
+19647/udp open|filtered unknown
+20154/udp open|filtered unknown
+20249/udp open|filtered unknown
+20423/udp open|filtered unknown
+21514/udp open|filtered unknown
+21568/udp open|filtered unknown
+21621/udp open|filtered unknown
+21674/udp open|filtered unknown
+21780/udp open|filtered unknown
+21834/udp open|filtered unknown
+22055/udp open|filtered unknown
+22692/udp open|filtered unknown
+31059/udp open|filtered unknown
+31681/udp open|filtered unknown
+32776/udp open|filtered sometimes-rpc16
+34038/udp open|filtered unknown
+35438/udp open|filtered unknown
+37843/udp open|filtered unknown
+41638/udp open|filtered unknown
+45380/udp open|filtered unknown
+49168/udp open|filtered unknown
+49181/udp open|filtered unknown
+49226/udp open|filtered unknown
+49306/udp open|filtered unknown
+49396/udp open|filtered unknown
+51690/udp open|filtered unknown
+54321/udp open|filtered bo2k
+61412/udp open|filtered unknown
+62699/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 110/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   6.00 ms 192.168.40.136
+
+Nmap scan report for 192.168.40.137
+Host is up (0.0051s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+16498/udp open|filtered unknown
+21568/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   10.00 ms 192.168.40.137
+
+Nmap scan report for 192.168.40.138
+Host is up (0.012s latency).
+Not shown: 1000 closed tcp ports (reset), 996 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+959/udp   open|filtered unknown
+17331/udp open|filtered unknown
+43967/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   6.00 ms 192.168.40.138
+
+Nmap scan report for 192.168.40.139
+Host is up (0.17s latency).
+Not shown: 1000 closed tcp ports (reset), 995 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+5355/udp  open|filtered llmnr
+19154/udp open|filtered unknown
+30263/udp open|filtered unknown
+54321/udp open|filtered bo2k
+61961/udp open|filtered unknown
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   6.00 ms 192.168.40.139
+
+Nmap scan report for 192.168.40.140
+Host is up (0.15s latency).
+Not shown: 1000 closed tcp ports (reset), 991 closed udp ports (port-unreach)
+PORT      STATE         SERVICE       VERSION
+657/udp   open|filtered rmc
+9001/udp  open|filtered etlservicemgr
+20206/udp open|filtered unknown
+20449/udp open|filtered unknown
+25546/udp open|filtered unknown
+34079/udp open|filtered unknown
+44923/udp open|filtered unknown
+49211/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   3.00 ms 192.168.40.140
+
+Nmap scan report for 192.168.40.141
+Host is up (0.0012s latency).
+Not shown: 997 closed tcp ports (reset), 994 closed udp ports (port-unreach)
+PORT      STATE         SERVICE    VERSION
+22/tcp    open          ssh        Dropbear sshd (protocol 2.0)
+80/tcp    open          http       BusyBox http 1.19.4
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+443/tcp   open          ssl/http   BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   c562:bcc7:5e03:d41e:6601:c1a6:ef08:d7d7
+|_SHA-1: aead:eadc:a843:b655:8183:98d9:7fbb:f56a:0a95:a5a1
+|_http-title: Site doesn't have a title (text/plain).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+42/udp    open|filtered nameserver
+67/udp    open|filtered dhcps
+996/udp   open|filtered vsinet
+20129/udp open|filtered unknown
+20522/udp open|filtered unknown
+30544/udp open|filtered unknown
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Uptime guess: 6.999 days (since Sat Mar 29 10:01:47 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=261 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   0.00 ms 192.168.40.141
+
+Nmap scan report for 192.168.40.142
+Host is up (0.16s latency).
+Not shown: 1000 closed tcp ports (reset), 997 closed udp ports (port-unreach)
+PORT      STATE         SERVICE     VERSION
+17814/udp open|filtered unknown
+31337/udp open|filtered BackOrifice
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   8.00 ms 192.168.40.142
+
+Nmap scan report for 192.168.40.143
+Host is up (0.0034s latency).
+Not shown: 1000 closed tcp ports (reset), 994 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+639/udp   open|filtered msdp
+1036/udp  open|filtered nsstp
+17726/udp open|filtered unknown
+18980/udp open|filtered unknown
+21568/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   5.00 ms 192.168.40.143
+
+Nmap scan report for 192.168.40.144
+Host is up (0.016s latency).
+Not shown: 1000 closed tcp ports (reset), 998 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+1037/udp  open|filtered ams
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   13.00 ms 192.168.40.144
+
+Nmap scan report for 192.168.40.173
+Host is up (0.0012s latency).
+Not shown: 997 closed tcp ports (reset), 994 closed udp ports (port-unreach)
+PORT      STATE         SERVICE  VERSION
+22/tcp    open          ssh      Dropbear sshd (protocol 2.0)
+80/tcp    open          http     BusyBox http 1.19.4
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+443/tcp   open          ssl/http BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   29f1:04fd:dfea:6ea0:033f:70b9:4de2:a2b1
+|_SHA-1: 49b7:f54e:cb80:318c:2e04:1635:ba3f:ac1c:9319:1c1b
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/plain).
+67/udp    open|filtered dhcps
+16766/udp open|filtered unknown
+20465/udp open|filtered unknown
+45380/udp open|filtered unknown
+49191/udp open|filtered unknown
+57409/udp open|filtered unknown
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Uptime guess: 7.829 days (since Fri Mar 28 14:06:03 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   0.00 ms 192.168.40.173
+
+Nmap scan report for 192.168.40.176
+Host is up (0.10s latency).
+Not shown: 1000 closed tcp ports (reset), 999 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   15.00 ms 192.168.40.176
+
+Nmap scan report for 192.168.40.186
+Host is up (0.15s latency).
+Not shown: 1000 closed tcp ports (reset), 998 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+21320/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   112.00 ms 192.168.40.186
+
+Nmap scan report for 192.168.40.187
+Host is up (0.11s latency).
+Not shown: 1000 closed tcp ports (reset), 999 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT       ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   798.00 ms 192.168.40.187
+
+Nmap scan report for 192.168.40.188
+Host is up (0.0086s latency).
+Not shown: 1000 closed tcp ports (reset), 994 closed udp ports (port-unreach)
+PORT      STATE         SERVICE         VERSION
+826/udp   open|filtered unknown
+1087/udp  open|filtered cplscrambler-in
+19660/udp open|filtered unknown
+24279/udp open|filtered unknown
+34855/udp open|filtered unknown
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   13.00 ms 192.168.40.188
+
+Nmap scan report for 192.168.40.189
+Host is up (0.10s latency).
+Not shown: 1000 closed tcp ports (reset), 999 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   14.00 ms 192.168.40.189
+
+Nmap scan report for 192.168.40.207
+Host is up (0.015s latency).
+Not shown: 1000 closed tcp ports (reset), 999 closed udp ports (port-unreach)
+PORT      STATE         SERVICE VERSION
+54321/udp open|filtered bo2k
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT      ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   11.00 ms 192.168.40.207
+
+Nmap scan report for 192.168.40.223
+Host is up (0.00082s latency).
+Not shown: 999 closed udp ports (port-unreach), 998 closed tcp ports (reset)
+PORT     STATE SERVICE  VERSION
+80/tcp   open  http     BusyBox http 1.19.4
+|_http-title: Site doesn't have a title (text/html).
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+443/tcp  open  ssl/http BusyBox http 1.19.4
+| ssl-cert: Subject: commonName=tplinkwifi.net/countryName=CN
+| Issuer: commonName=tplinkwifi.net/countryName=CN
+| Public Key type: rsa
+| Public Key bits: 2048
+| Signature Algorithm: sha256WithRSAEncryption
+| Not valid before: 2010-01-01T00:00:00
+| Not valid after:  2030-12-31T00:00:00
+| MD5:   6fe4:4c55:0a66:d639:f754:941f:07bf:5bfe
+|_SHA-1: ef78:6a04:afe5:75b6:f0f3:045f:4463:13c8:5842:b480
+| http-methods: 
+|_  Supported Methods: GET HEAD POST
+|_http-title: Site doesn't have a title (text/html).
+5351/udp open  nat-pmp?
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port5351-UDP:V=7.95%I=7%D=4/5%Time=67F0980D%P=i686-pc-windows-windows%r
+SF:(NAT_PMP_ADDR,C,"\0\x80\0\x03\0\x11\x02!\0\0\0\0")%r(DNSVersionBindReq,
+SF:8,"\0\x86\0\x05\0\x11\x02\+")%r(DNSStatusRequest,C,"\0\x80\0\x03\0\x11\
+SF:x020\0\0\0\0")%r(Help,8,"\0\xe5\0\x01\0\x11\x02;")%r(SIPOptions,8,"\0\x
+SF:d0\0\x01\0\x11\x02@")%r(NTPRequest,8,"\0\x80\0\x01\0\x11\x02L")%r(SNMPv
+SF:3GetRequest,8,"\0\xba\0\x01\0\x11\x02V")%r(AFSVersionRequest,C,"\0\x80\
+SF:0\x03\0\x11\x02`\0\0\0\0")%r(DNS-SD,C,"\0\x80\0\x03\0\x11\x02e\0\0\0\0"
+SF:)%r(Citrix,8,"\0\x80\0\x01\0\x11\x02j")%r(sybaseanywhere,8,"\0\x80\0\x0
+SF:1\0\x11\x02t")%r(NetMotionMobility,8,"\0\xc0\0\x05\0\x11\x02y");
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=80%CT=1%CU=2%PV=Y%DS=2%DC=T%G=Y%TM=67F09CB5%P=i
+OS:686-pc-windows-windows)SEQ(SP=102%GCD=1%ISR=10A%TI=Z%II=I%TS=A)SEQ(SP=10
+OS:2%GCD=1%ISR=10B%TI=Z%CI=I%II=I%TS=A)SEQ(SP=105%GCD=1%ISR=108%TI=Z%CI=I%T
+OS:S=A)SEQ(SP=FD%GCD=1%ISR=109%TI=Z%CI=I%TS=A)SEQ(SP=FF%GCD=1%ISR=108%TI=Z%
+OS:CI=I%TS=A)OPS(O1=M5B4ST11NW6%O2=M5B4ST11NW6%O3=M5B4NNT11NW6%O4=M5B4ST11N
+OS:W6%O5=M5B4ST11NW6%O6=M5B4ST11)WIN(W1=7120%W2=7120%W3=7120%W4=7120%W5=712
+OS:0%W6=7120)ECN(R=Y%DF=Y%T=40%W=7210%O=M5B4NNSNW6%CC=N%Q=)T1(R=Y%DF=Y%T=40
+OS:%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=
+OS:%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%
+OS:W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=N)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%R
+OS:ID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Uptime guess: 12.911 days (since Sun Mar 23 12:07:33 2025)
+Network Distance: 2 hops
+TCP Sequence Prediction: Difficulty=258 (Good luck!)
+IP ID Sequence Generation: All zeros
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+TRACEROUTE (using port 143/tcp)
+HOP RTT     ADDRESS
+-   Hop 1 is the same as for 192.168.40.39
+2   1.00 ms 192.168.40.223
+
+NSE: Script Post-scanning.
+Initiating NSE at 10:00
+Completed NSE at 10:00, 0.00s elapsed
+Initiating NSE at 10:00
+Completed NSE at 10:00, 0.00s elapsed
+Initiating NSE at 10:00
+Completed NSE at 10:00, 0.00s elapsed
+Read data files from: C:\Program Files (x86)\Nmap
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (67 hosts up) scanned in 6391.96 seconds
+           Raw packets sent: 186583 (8.813MB) | Rcvd: 273754 (29.388MB)

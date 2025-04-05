@@ -41,7 +41,7 @@ Depending on the course structure, this repository may include assignments on:
  
     - 🔬 [Assignment 003 Nmap/](github.com/CreatorB/sibermu/tree/main/2024-even/CyberSecurity/assignment-003-Nmap)
 
-      - 📄 [Zenmap](https://github.com/CreatorB/sibermu/blob/main/2024-even/CyberSecurity/cybersecurity-assignment-003-nmap-hasan20230100144-creatorbe.pdf)
+      - 📄 [Zenmap](https://github.com/CreatorB/sibermu/blob/main/2024-even/CyberSecurity/assignment-003-Nmap/cybersecurity-assignment-003-nmap-hasan20230100144-creatorbe.pdf)
       - 🔗 [Result Zenmap : Quick scan plus](https://github.com/CreatorB/sibermu/blob/main/2024-even/CyberSecurity/assignment-003-Nmap/log-quick-scan-plus.txt)
       - 🔗 [Result Zenmap : Intense scan plus UDP](https://github.com/CreatorB/sibermu/blob/main/2024-even/CyberSecurity/assignment-003-Nmap/log-intense-scan-plus-UDP.txt) 
  

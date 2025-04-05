@@ -81,4 +81,4 @@ Plagiarism for academic or commercial purposes is strictly prohibited.
 
 If you have any questions or suggestions, feel free to contact me via GitHub or email.
 
-[Hasan Basri](https://creatorbe.github.io) | [creatorb45@gmail.com](mailto:creatorb45@gmail.com) / [hasan20230100144@sibermu.ac.id](mailto:hasan20230100144@sibermu.ac.id)
+[Hasan B](https://creatorbe.github.io) | [creatorb45@gmail.com](mailto:creatorb45@gmail.com) / [hasan20230100144@sibermu.ac.id](mailto:hasan20230100144@sibermu.ac.id)

@@ -1,0 +1,600 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-04-05 22:53 SE Asia Standard Time
+Nmap scan report for 192.168.40.1
+Host is up (0.0035s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT     STATE SERVICE        VERSION
+21/tcp   open  tcpwrapped
+80/tcp   open  http?
+2000/tcp open  bandwidth-test MikroTik bandwidth-test server
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port80-TCP:V=7.95%I=2%D=4/5%Time=67F15203%P=i686-pc-windows-windows%r(G
+SF:etRequest,5E0,"HTTP/1\.0\x20200\x20OK\r\nCache-Control:\x20max-age=3153
+SF:6000\r\nConnection:\x20close\r\nContent-Length:\x201280\r\nContent-Type
+SF::\x20text/html\r\nDate:\x20Sat,\x2005\x20Apr\x202025\x2015:53:39\x20GMT
+SF:\r\nExpires:\x20Sun,\x2005\x20Apr\x202026\x2015:53:39\x20GMT\r\nX-Frame
+SF:-Options:\x20sameorigin\r\n\r\n<!doctype\x20html>\n<html\x20lang=\"en\"
+SF:>\n<meta\x20charset=\"utf-8\">\n<meta\x20name=\"viewport\"\x20content=\
+SF:"width=device-width,\x20initial-scale=1\">\n<link\x20rel=\"icon\"\x20hr
+SF:ef=\"/favicon\.png\">\n<link\x20rel=\"icon\"\x20href=\"/favicon\.svg\">
+SF:\n<title>RouterOS</title>\n<link\x20rel=\"stylesheet\"\x20href=\"/asset
+SF:s/style-692511ab2675\.css\">\n<script\x20src=\"/assets/script-bd71a1293
+SF:274\.js\"></script>\n\n<div\x20class=\"login\">\n<section>\n<div\x20cla
+SF:ss=\"brand\"><img\x20src=\"mikrotik_logo\.svg\"\x20alt=\"\"></div>\n<fo
+SF:rm\x20class=\"form\"\x20id=\"login\">\n<div\x20id=\"error\"\x20class=\"
+SF:errorMessage\"></div>\n<div>\n\x20\x20<label\x20for=\"name\">Login</lab
+SF:el>\n\x20\x20<input\x20id=\"name\"\x20autocomplete=\"username\"\x20type
+SF:=\"text\"\x20data-defaultuser=\"admin\">\n</div>\n<div>\n\x20\x20<label
+SF:\x20for=\"password\">Password")%r(HTTPOptions,14B,"HTTP/1\.0\x20503\x20
+SF:Service\x20Unavailable\r\nCache-Control:\x20no-store\r\nConnection:\x20
+SF:close\r\nContent-Length:\x20109\r\nContent-Type:\x20text/html\r\nDate:\
+SF:x20Sat,\x2005\x20Apr\x202025\x2015:53:39\x20GMT\r\nExpires:\x200\r\nPra
+SF:gma:\x20no-cache\r\nX-Frame-Options:\x20sameorigin\r\n\r\n<!doctype\x20
+SF:html>\n<html\x20lang=en>\n<title>Error\x20503\x20:\x20unknown\x20method
+SF:</title>\n<h1>Error\x20503\x20:\x20unknown\x20method</h1>\n")%r(RTSPReq
+SF:uest,14B,"HTTP/1\.0\x20503\x20Service\x20Unavailable\r\nCache-Control:\
+SF:x20no-store\r\nConnection:\x20close\r\nContent-Length:\x20109\r\nConten
+SF:t-Type:\x20text/html\r\nDate:\x20Sat,\x2005\x20Apr\x202025\x2015:53:39\
+SF:x20GMT\r\nExpires:\x200\r\nPragma:\x20no-cache\r\nX-Frame-Options:\x20s
+SF:ameorigin\r\n\r\n<!doctype\x20html>\n<html\x20lang=en>\n<title>Error\x2
+SF:0503\x20:\x20unknown\x20method</title>\n<h1>Error\x20503\x20:\x20unknow
+SF:n\x20method</h1>\n");
+Device type: general purpose|router
+Running: Linux 4.X|5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:4 cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 4.15 - 5.19, OpenWrt 21.02 (Linux 5.4), MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Network Distance: 1 hop
+
+Nmap scan report for 192.168.40.49
+Host is up (0.027s latency).
+All 100 scanned ports on 192.168.40.49 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.52
+Host is up (0.027s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     Dropbear sshd 2022.83 (protocol 2.0)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=22%CT=7%CU=33591%PV=Y%DS=2%DC=I%G=Y%TM=67F15229
+OS:%P=i686-pc-windows-windows)SEQ(SP=102%GCD=1%ISR=10D%TI=Z%CI=I%II=I%TS=U)
+OS:SEQ(SP=104%GCD=1%ISR=10A%TI=Z%CI=I%II=I%TS=U)SEQ(SP=105%GCD=1%ISR=10B%TI
+OS:=Z%CI=I%TS=U)SEQ(SP=106%GCD=1%ISR=108%TI=Z%CI=I%II=I%TS=U)SEQ(SP=106%GCD
+OS:=1%ISR=109%TI=Z%TS=U)OPS(O1=M5B4NNSNW4%O2=M5B4NNSNW4%O3=M5B4NW4%O4=M5B4N
+OS:NSNW4%O5=M5B4NNSNW4%O6=M5B4NNS)WIN(W1=7210%W2=7210%W3=7210%W4=7210%W5=72
+OS:10%W6=7210)ECN(R=Y%DF=Y%T=40%W=7210%O=M5B4NNSNW4%CC=N%Q=)T1(R=Y%DF=Y%T=4
+OS:0%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O
+OS:=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40
+OS:%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q
+OS:=)U1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y
+OS:%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.60
+Host is up (0.026s latency).
+Not shown: 99 closed tcp ports (reset)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     Dropbear sshd 2022.83 (protocol 2.0)
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=22%CT=7%CU=33726%PV=Y%DS=2%DC=I%G=Y%TM=67F15229
+OS:%P=i686-pc-windows-windows)SEQ(SP=104%GCD=1%ISR=105%TI=Z%CI=I%II=I%TS=U)
+OS:SEQ(SP=104%GCD=2%ISR=108%TI=Z%CI=I%TS=U)SEQ(SP=F4%GCD=1%ISR=10E%TI=Z%CI=
+OS:I%II=I%TS=U)SEQ(SP=FB%GCD=1%ISR=10D%TI=Z%TS=U)SEQ(SP=FF%GCD=1%ISR=106%TI
+OS:=Z%CI=I%II=I%TS=U)OPS(O1=M5B4NNSNW4%O2=M5B4NNSNW4%O3=M5B4NW4%O4=M5B4NNSN
+OS:W4%O5=M5B4NNSNW4%O6=M5B4NNS)WIN(W1=7210%W2=7210%W3=7210%W4=7210%W5=7210%
+OS:W6=7210)ECN(R=Y%DF=Y%T=40%W=7210%O=M5B4NNSNW4%CC=N%Q=)T1(R=Y%DF=Y%T=40%S
+OS:=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%R
+OS:D=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)T6(R=Y%DF=Y%T=40%W=
+OS:0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0%Q=)U
+OS:1(R=Y%DF=N%T=40%IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DF
+OS:I=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.88
+Host is up (0.022s latency).
+All 100 scanned ports on 192.168.40.88 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.89
+Host is up (0.015s latency).
+All 100 scanned ports on 192.168.40.89 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.90
+Host is up (0.0092s latency).
+All 100 scanned ports on 192.168.40.90 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.91
+Host is up (0.012s latency).
+All 100 scanned ports on 192.168.40.91 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.92
+Host is up (0.011s latency).
+All 100 scanned ports on 192.168.40.92 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.93
+Host is up (0.019s latency).
+All 100 scanned ports on 192.168.40.93 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.94
+Host is up (0.39s latency).
+All 100 scanned ports on 192.168.40.94 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.95
+Host is up (0.0082s latency).
+All 100 scanned ports on 192.168.40.95 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.96
+Host is up (0.088s latency).
+All 100 scanned ports on 192.168.40.96 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.97
+Host is up (0.044s latency).
+All 100 scanned ports on 192.168.40.97 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.98
+Host is up (0.0089s latency).
+All 100 scanned ports on 192.168.40.98 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.99
+Host is up (0.011s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      Dropbear sshd (protocol 2.0)
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.100
+Host is up (0.014s latency).
+All 100 scanned ports on 192.168.40.100 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.101
+Host is up (0.00069s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+53/tcp  open  domain   dnsmasq 2.83
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 4.X
+OS CPE: cpe:/o:linux:linux_kernel:4.14
+OS details: OpenWrt 19.07 (Linux 4.14)
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.102
+Host is up (0.0052s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+53/tcp  open  domain   dnsmasq 2.83
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 4.X
+OS CPE: cpe:/o:linux:linux_kernel:4.14
+OS details: OpenWrt 19.07 (Linux 4.14)
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.104
+Host is up (0.010s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      Dropbear sshd (protocol 2.0)
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.105
+Host is up (0.011s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      Dropbear sshd (protocol 2.0)
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.106
+Host is up (0.011s latency).
+All 100 scanned ports on 192.168.40.106 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.107
+Host is up (0.0061s latency).
+All 100 scanned ports on 192.168.40.107 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.108
+Host is up (0.022s latency).
+All 100 scanned ports on 192.168.40.108 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.109
+Host is up (0.013s latency).
+All 100 scanned ports on 192.168.40.109 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.110
+Host is up (0.017s latency).
+All 100 scanned ports on 192.168.40.110 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.111
+Host is up (0.020s latency).
+All 100 scanned ports on 192.168.40.111 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.112
+Host is up (0.015s latency).
+All 100 scanned ports on 192.168.40.112 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.113
+Host is up (0.015s latency).
+All 100 scanned ports on 192.168.40.113 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.115
+Host is up (0.0074s latency).
+All 100 scanned ports on 192.168.40.115 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.116
+Host is up (0.014s latency).
+All 100 scanned ports on 192.168.40.116 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.117
+Host is up (0.012s latency).
+All 100 scanned ports on 192.168.40.117 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.119
+Host is up (0.0059s latency).
+All 100 scanned ports on 192.168.40.119 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.120
+Host is up (0.0087s latency).
+All 100 scanned ports on 192.168.40.120 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.121
+Host is up (0.024s latency).
+All 100 scanned ports on 192.168.40.121 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.122
+Host is up (0.020s latency).
+All 100 scanned ports on 192.168.40.122 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.123
+Host is up (0.018s latency).
+All 100 scanned ports on 192.168.40.123 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.124
+Host is up (0.021s latency).
+All 100 scanned ports on 192.168.40.124 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.125
+Host is up (0.014s latency).
+All 100 scanned ports on 192.168.40.125 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.126
+Host is up (0.016s latency).
+All 100 scanned ports on 192.168.40.126 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.127
+Host is up (0.020s latency).
+All 100 scanned ports on 192.168.40.127 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.128
+Host is up (0.0056s latency).
+All 100 scanned ports on 192.168.40.128 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.129
+Host is up (0.017s latency).
+All 100 scanned ports on 192.168.40.129 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.130
+Host is up (0.023s latency).
+All 100 scanned ports on 192.168.40.130 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.131
+Host is up (0.015s latency).
+All 100 scanned ports on 192.168.40.131 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.132
+Host is up (0.060s latency).
+All 100 scanned ports on 192.168.40.132 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.133
+Host is up (0.018s latency).
+All 100 scanned ports on 192.168.40.133 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.134
+Host is up (0.0054s latency).
+All 100 scanned ports on 192.168.40.134 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.135
+Host is up (0.0065s latency).
+All 100 scanned ports on 192.168.40.135 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.136
+Host is up (0.0060s latency).
+All 100 scanned ports on 192.168.40.136 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.137
+Host is up (0.0055s latency).
+All 100 scanned ports on 192.168.40.137 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.138
+Host is up (0.016s latency).
+All 100 scanned ports on 192.168.40.138 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.139
+Host is up (0.021s latency).
+All 100 scanned ports on 192.168.40.139 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.140
+Host is up (0.026s latency).
+All 100 scanned ports on 192.168.40.140 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.141
+Host is up (0.0024s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      Dropbear sshd (protocol 2.0)
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.142
+Host is up (0.018s latency).
+All 100 scanned ports on 192.168.40.142 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.143
+Host is up (0.014s latency).
+All 100 scanned ports on 192.168.40.143 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.144
+Host is up (0.020s latency).
+All 100 scanned ports on 192.168.40.144 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.173
+Host is up (0.0024s latency).
+Not shown: 97 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+22/tcp  open  ssh      Dropbear sshd (protocol 2.0)
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+Device type: general purpose
+Running: Linux 2.6.X|3.X
+OS CPE: cpe:/o:linux:linux_kernel:2.6 cpe:/o:linux:linux_kernel:3
+OS details: Linux 2.6.32 - 3.10
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Nmap scan report for 192.168.40.176
+Host is up (0.016s latency).
+All 100 scanned ports on 192.168.40.176 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.186
+Host is up (0.019s latency).
+All 100 scanned ports on 192.168.40.186 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.187
+Host is up (0.016s latency).
+All 100 scanned ports on 192.168.40.187 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.188
+Host is up (0.030s latency).
+All 100 scanned ports on 192.168.40.188 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.189
+Host is up (0.018s latency).
+All 100 scanned ports on 192.168.40.189 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.207
+Host is up (0.0082s latency).
+All 100 scanned ports on 192.168.40.207 are in ignored states.
+Not shown: 100 closed tcp ports (reset)
+Too many fingerprints match this host to give specific OS details
+Network Distance: 2 hops
+
+Nmap scan report for 192.168.40.223
+Host is up (0.0012s latency).
+Not shown: 98 closed tcp ports (reset)
+PORT    STATE SERVICE  VERSION
+80/tcp  open  http     BusyBox http 1.19.4
+443/tcp open  ssl/http BusyBox http 1.19.4
+No exact OS matches for host (If you know what OS is running on it, see https://nmap.org/submit/ ).
+TCP/IP fingerprint:
+OS:SCAN(V=7.95%E=4%D=4/5%OT=80%CT=7%CU=33592%PV=Y%DS=2%DC=I%G=Y%TM=67F1523D
+OS:%P=i686-pc-windows-windows)SEQ(SP=100%GCD=1%ISR=10B%TI=Z%CI=I%II=I%TS=A)
+OS:SEQ(SP=100%GCD=1%ISR=10F%TI=Z%CI=I%II=I%TS=A)SEQ(SP=102%GCD=1%ISR=10E%TI
+OS:=Z%II=I%TS=A)SEQ(SP=103%GCD=1%ISR=104%TI=Z%CI=I%II=I%TS=A)SEQ(SP=106%GCD
+OS:=1%ISR=10B%TI=Z%CI=I%II=I%TS=A)OPS(O1=M5B4ST11NW6%O2=M5B4ST11NW6%O3=M5B4
+OS:NNT11NW6%O4=M5B4ST11NW6%O5=M5B4ST11NW6%O6=M5B4ST11)WIN(W1=7120%W2=7120%W
+OS:3=7120%W4=7120%W5=7120%W6=7120)ECN(R=Y%DF=Y%T=40%W=7210%O=M5B4NNSNW6%CC=
+OS:N%Q=)T1(R=Y%DF=Y%T=40%S=O%A=S+%F=AS%RD=0%Q=)T2(R=N)T3(R=N)T4(R=Y%DF=Y%T=
+OS:40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T5(R=Y%DF=Y%T=40%W=0%S=Z%A=S+%F=AR%O=%RD=0
+OS:%Q=)T6(R=Y%DF=Y%T=40%W=0%S=A%A=Z%F=R%O=%RD=0%Q=)T7(R=N)U1(R=Y%DF=N%T=40%
+OS:IPL=164%UN=0%RIPL=G%RID=G%RIPCK=G%RUCK=G%RUD=G)IE(R=Y%DFI=N%T=40%CD=S)
+
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 256 IP addresses (66 hosts up) scanned in 83.97 seconds
